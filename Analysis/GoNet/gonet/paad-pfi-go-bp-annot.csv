@@ -1,0 +1,72 @@
+,GO_term_ID,GO_term_def,NofGenes,Genes
+1,GO:0048856,anatomical structure development,14,CD44|COL1A1|EDIL3|FGF8|FGFR1|ITGAV|ITGB1|LAMB1|LRP1|PSEN1|SPINT1|ST14|TGFB3|TGFBR2
+2,GO:0030154,cell differentiation,12,COL1A1|FGF8|FGFR1|ITGAV|ITGB1|LAMB1|LRP1|PSEN1|SPINT1|ST14|TGFB3|TGFBR2
+3,GO:0009790,embryo development,11,COL1A1|FGF8|FGFR1|ITGAV|ITGB1|LAMB1|PSEN1|SPINT1|ST14|TGFB3|TGFBR2
+4,GO:0007165,signal transduction,11,CD44|COL1A1|FGF8|FGFR1|ITGAV|ITGB1|LRP1|PLAT|PSEN1|TGFB3|TGFBR2
+5,GO:0048646,anatomical structure formation involved in morphogenesis,10,COL1A1|FGF8|FGFR1|ITGAV|ITGB1|LAMB1|PSEN1|SPINT1|ST14|TGFBR2
+6,GO:0040011,locomotion,10,CD44|COL1A1|FGF8|FGFR1|ITGAV|ITGB1|LAMB1|LRP1|PLAT|PSEN1
+7,GO:0048870,cell motility,9,CD44|COL1A1|FGF8|FGFR1|ITGAV|ITGB1|LAMB1|PLAT|PSEN1
+8,GO:0006950,response to stress,9,CD44|COL1A1|FGF8|ITGB1|LRP1|PLAT|PSEN1|TGFB3|TGFBR2
+9,GO:0006810,transport,8,CD44|COL1A1|ITGAV|ITGB1|LRP1|PSEN1|TGFB3|TGFBR2
+10,GO:0002376,immune system process,7,CD44|COL1A1|ITGAV|ITGB1|LRP1|PSEN1|TGFBR2
+11,GO:0016192,vesicle-mediated transport,7,CD44|ITGAV|ITGB1|LRP1|PSEN1|TGFB3|TGFBR2
+12,GO:0007155,cell adhesion,7,CD44|EDIL3|ITGAV|ITGB1|LAMB1|PSEN1|TGFBR2
+13,GO:0006464,cellular protein modification process,7,FGF8|FGFR1|ITGAV|LAMB1|PLAT|PSEN1|TGFBR2
+14,GO:0030198,extracellular matrix organization,6,CD44|COL1A1|ITGAV|ITGB1|LAMB1|SPINT1
+15,GO:0000003,reproduction,6,FGF8|ITGB1|SPINT1|ST14|TGFB3|TGFBR2
+16,GO:0000902,cell morphogenesis,6,FGF8|ITGAV|ITGB1|LAMB1|LRP1|ST14
+17,GO:0008283,cell population proliferation,5,FGF8|FGFR1|LRP1|PSEN1|TGFBR2
+18,GO:0007267,cell-cell signaling,4,FGF8|FGFR1|PLAT|PSEN1
+19,GO:0022607,cellular component assembly,4,COL1A1|ITGB1|LAMB1|PSEN1
+20,GO:0050877,nervous system process,4,COL1A1|FGFR1|ITGB1|PSEN1
+21,GO:0015031,protein transport,4,COL1A1|ITGAV|LRP1|PSEN1
+22,GO:0008219,cell death,4,ITGAV|PSEN1|ST14|TGFBR2
+23,GO:0007568,aging,4,LRP1|PSEN1|TGFB3|TGFBR2
+24,GO:0009056,catabolic process,3,CD44|LRP1|PSEN1
+25,GO:0042592,homeostatic process,3,ITGAV|LRP1|PSEN1
+26,GO:0044281,small molecule metabolic process,2,CD44|FGFR1
+27,GO:0044403,symbiotic process,2,ITGAV|ITGB1
+28,GO:0009058,biosynthetic process,2,COL1A1|PSEN1
+29,GO:0006629,lipid metabolic process,2,FGFR1|LRP1
+30,GO:0040007,growth,2,ITGB1|TGFBR2
+31,GO:0055085,transmembrane transport,2,ITGAV|PSEN1
+32,GO:0051604,protein maturation,2,PLAT|PSEN1
+33,GO:0034641,cellular nitrogen compound metabolic process,1,PSEN1
+34,GO:0034330,cell junction organization,1,TGFB3
+35,GO:0006914,autophagy,1,PSEN1
+36,GO:0065003,protein-containing complex assembly,1,COL1A1
+37,GO:0051301,cell division,1,FGFR1
+38,GO:0021700,developmental maturation,1,FGFR1
+39,GO:0007010,cytoskeleton organization,1,ITGB1
+40,GO:0000278,mitotic cell cycle,1,ITGB1
+41,GO:0007034,vacuolar transport,1,LRP1
+42,GO:0007049,cell cycle,1,ITGB1
+43,GO:0051186,cofactor metabolic process,0,
+44,GO:0061024,membrane organization,0,
+45,GO:0003013,circulatory system process,0,
+46,GO:0005975,carbohydrate metabolic process,0,
+47,GO:0071554,cell wall organization or biogenesis,0,
+48,GO:0043473,pigmentation,0,
+49,GO:0042254,ribosome biogenesis,0,
+50,GO:0071941,nitrogen cycle metabolic process,0,
+51,GO:0051276,chromosome organization,0,
+52,GO:0006397,mRNA processing,0,
+53,GO:0006091,generation of precursor metabolites and energy,0,
+54,GO:0006412,translation,0,
+55,GO:0006605,protein targeting,0,
+56,GO:0006913,nucleocytoplasmic transport,0,
+57,GO:0006520,cellular amino acid metabolic process,0,
+58,GO:0007005,mitochondrion organization,0,
+59,GO:0007009,plasma membrane organization,0,
+60,GO:0007059,chromosome segregation,0,
+61,GO:0006457,protein folding,0,
+62,GO:0015979,photosynthesis,0,
+63,GO:0034655,nucleobase-containing compound catabolic process,0,
+64,GO:0006399,tRNA metabolic process,0,
+65,GO:0019748,secondary metabolic process,0,
+66,GO:0022618,ribonucleoprotein complex assembly,0,
+67,GO:0006790,sulfur compound metabolic process,0,
+68,GO:0006259,DNA metabolic process,0,
+69,GO:0030705,cytoskeleton-dependent intracellular transport,0,
+70,GO:0032196,transposition,0,
+71,GO:0140014,mitotic nuclear division,0,
