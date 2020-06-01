@@ -1,7 +1,10 @@
 
 
--- building the phenotype table --
+-- Building the phenotype table SQL --
 
+-- the SQL transforms the Pan-Cancer clinical table
+-- into two binary variables, one for tumor staging 
+-- and one for PFI.
 
 WITH
   cohort AS (
