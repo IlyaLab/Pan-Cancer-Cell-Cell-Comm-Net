@@ -1,7 +1,21 @@
 # Pan-Cancer-Cell-Cell-Comm-Net
 The Pan-Cancer cell-cell communication network, data, scripts, results.
 
-Table of contents:
+## Important files:
+
+Data/accessories_v2.rda  -- an R data file with the following objects:
+  - binMap -- bins to categorize samples by cell type score abundance
+  - ccs -- the cell-cell scaffold (ccs)
+  - cellECDFS -- the cell score abundance distributions
+
+Data/cell_type_expr/cell_type_expression_tables.rda
+  - The source data that was used to create the cell-cell scaffold.
+  
+Data/cell_type_expr/new_Celltype_map_march8.tsv
+  - The map of cell names in source data to xCell data.
+
+
+## Table of contents:
 
 1. Analysis - Data and notebooks used in the analysis of networks.
 
