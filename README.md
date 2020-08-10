@@ -9,7 +9,8 @@ Data/accessories_v2.rda  -- an R data file with the following objects:
   - cellECDFS -- the cell score abundance distributions
 
 Data/cell_type_expr/cell_type_expression_tables.rda
-  - The source data that was used to create the cell-cell scaffold.
+  - The cell sorted gene expression source data that was used to create the cell-cell scaffold.
+    includes: blueprintComm, blueprintRare, ramiloski, a96, a97, mab, nov, encode
   
 Data/cell_type_expr/new_Celltype_map_march8.tsv
   - The map of cell names in source data to xCell data.
