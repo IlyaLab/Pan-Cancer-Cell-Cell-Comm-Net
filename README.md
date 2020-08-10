@@ -1,19 +1,24 @@
 # Pan-Cancer-Cell-Cell-Comm-Net
 The Pan-Cancer cell-cell communication network, data, scripts, results.
 
+Table of contents:
 
-The two main parts of this repo are:
+1. Analysis - Data and notebooks used in the analysis of networks.
 
+2. Code - the code to build the cell-cell scaffold, weight the networks, and perform permuation testing.
 
-1. WeightingNetworks
+3. Data - objects needed for computing the edge weights.
 
-Contains the code and data examples to generate weighted networks per tumor.
+4. Expr - columns cut from the TCGA Pan-Cancer batch corrected RNA-seq data.
 
+5. Perm - example of the permutation outputs.
 
+6. Prob - cell abundance probability distribution examples.
 
-2. AnalyzingNetworks
+7. Results - example result files showing edge weights.
 
-Contains R notebooks and the edge weights from differentially weighted edges, for the PFI and Stage tests.
-Only LUSC, SKCM, PAAD, STAD, COAD, READ, ESCA are included here.
+8. SQL - BigQuery SQLs used to compute statistics.
+
+9. testEnv - a complete test example to run through.
 
 
