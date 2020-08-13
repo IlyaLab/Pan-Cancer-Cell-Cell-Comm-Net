@@ -1,0 +1,868 @@
+X1	X2	X3	X4
+aDC	GSE22886 Abbas	DendriticCell-LPSstimulated-1 [HG-U133A]	DendriticCell-LPSstimulated-1 [HG-U133A]
+aDC	GSE22886 Abbas	DendriticCell-LPSstimulated-2 [HG-U133A]	DendriticCell-LPSstimulated-2 [HG-U133A]
+aDC	GSE22886 Abbas	DendriticCell-LPSstimulated-3 [HG-U133A]	DendriticCell-LPSstimulated-3 [HG-U133A]
+aDC	GSE22886 Abbas	DendriticCell-LPSstimulated-4 [HG-U133A]	DendriticCell-LPSstimulated-4 [HG-U133A]
+aDC	GSE22886 Abbas	DendriticCell-LPSstimulated-5 [HG-U133A]	DendriticCell-LPSstimulated-5 [HG-U133A]
+aDC	GSE22886 Abbas	DendriticCell-LPSstimulated-6 [HG-U133A]	DendriticCell-LPSstimulated-6 [HG-U133A]
+astrocytes	Encode	astrocyte"	astrocyte
+astrocytes	Mabbott	Hs.64:Astrocyte:Embryonic_stem_cell-derived:d210_RA-specified:	Hs.64:Astrocyte:Embryonic_stem_cell-derived:d210_RA-specified:
+astrocytes	Mabbott	Hs.64:Astrocyte:Embryonic_stem_cell-derived:d210_FGF8-specified:	Hs.64:Astrocyte:Embryonic_stem_cell-derived:d210_FGF8-specified:
+b-cell	Noverstern	Mature B-cells	Mature B-cells
+b-cell	Noverstern	Mature B-cells	Mature B-cells
+b-cell	Noverstern	Mature B-cells	Mature B-cells
+b-cell	Noverstern	Mature B-cells	Mature B-cells
+b-cell	Noverstern	Mature B-cells	Mature B-cells
+Basophils	Noverstern	Basophils	Basophils
+Basophils	Noverstern	Basophils	Basophils
+Basophils	Noverstern	Basophils	Basophils
+Basophils	Noverstern	Basophils	Basophils
+Basophils	Noverstern	Basophils	Basophils
+Basophils	Noverstern	Basophils	Basophils
+CD4+ naive T-cells	Noverstern	Naive CD4+ T-cell	Naive CD4+ T-cell
+CD4+ naive T-cells	Noverstern	Naive CD4+ T-cell	Naive CD4+ T-cell
+CD4+ naive T-cells	Noverstern	Naive CD4+ T-cell	Naive CD4+ T-cell
+CD4+ naive T-cells	Noverstern	Naive CD4+ T-cell	Naive CD4+ T-cell
+CD4+ naive T-cells	Noverstern	Naive CD4+ T-cell	Naive CD4+ T-cell
+CD4+ naive T-cells	Noverstern	Naive CD4+ T-cell	Naive CD4+ T-cell
+CD4+ naive T-cells	Noverstern	Naive CD4+ T-cell	Naive CD4+ T-cell
+CD4+ naive T-cells	Mabbott	Hs.12:PB:T_cell:CD4+_naive:r1	Hs.12:PB:T_cell:CD4+_naive:r1
+CD4+ naive T-cells	Mabbott	Hs.12:PB:T_cell:CD4+_naive:r2	Hs.12:PB:T_cell:CD4+_naive:r2
+CD4+ naive T-cells	Mabbott	Hs.12:PB:T_cell:CD4+_naive:r3	Hs.12:PB:T_cell:CD4+_naive:r3
+CD4+ naive T-cells	Mabbott	Hs.12:PB:T_cell:CD4+_naive:r4	Hs.12:PB:T_cell:CD4+_naive:r4
+CD4+ T-cells	Abbas	CD4Tcell-N0-1 [HG-U133A]	CD4Tcell-N0-1 [HG-U133A]
+CD4+ T-cells	Abbas	CD4Tcell-N0-2 [HG-U133A]	CD4Tcell-N0-2 [HG-U133A]
+CD4+ T-cells	Abbas	CD4Tcell-N0-3 [HG-U133A]	CD4Tcell-N0-3 [HG-U133A]
+CD4+ T-cells	Mabbott	Hs.42:PB:T_cell:CD4+:pos-sel:r6	Hs.42:PB:T_cell:CD4+:pos-sel:r6
+CD4+ T-cells	Mabbott	Hs.42:PB:T_cell:CD4+:pos-sel:r7	Hs.42:PB:T_cell:CD4+:pos-sel:r7
+CD4+ T-cells	Mabbott	Hs.42:PB:T_cell:CD4+:pos-sel:r8	Hs.42:PB:T_cell:CD4+:pos-sel:r8
+CD4+ T-cells	Mabbott	Hs.42:PB:T_cell:CD4+:pos-sel:r10	Hs.42:PB:T_cell:CD4+:pos-sel:r10
+CD4+ Tcm	Noverstern	CD4+ Central Memory	CD4+ Central Memory
+CD4+ Tcm	Noverstern	CD4+ Central Memory	CD4+ Central Memory
+CD4+ Tcm	Noverstern	CD4+ Central Memory	CD4+ Central Memory
+CD4+ Tcm	Noverstern	CD4+ Central Memory	CD4+ Central Memory
+CD4+ Tcm	Noverstern	CD4+ Central Memory	CD4+ Central Memory
+CD4+ Tcm	Noverstern	CD4+ Central Memory	CD4+ Central Memory
+CD4+ Tcm	Noverstern	CD4+ Central Memory	CD4+ Central Memory
+CD4+ Tcm	Mabbott	Hs.12:PB:T_cell:CD4+_central_memory:r5	Hs.12:PB:T_cell:CD4+_central_memory:r5
+CD4+ Tcm	Mabbott	Hs.12:PB:T_cell:CD4+_central_memory:r1	Hs.12:PB:T_cell:CD4+_central_memory:r1
+CD4+ Tcm	Mabbott	Hs.12:PB:T_cell:CD4+_central_memory:r2	Hs.12:PB:T_cell:CD4+_central_memory:r2
+CD4+ Tcm	Mabbott	Hs.12:PB:T_cell:CD4+_central_memory:r3	Hs.12:PB:T_cell:CD4+_central_memory:r3
+CD4+ Tcm	Mabbott	Hs.12:PB:T_cell:CD4+_central_memory:r4	Hs.12:PB:T_cell:CD4+_central_memory:r4
+CD4+ Tem	Noverstern	CD4+ Effector Memory	CD4+ Effector Memory
+CD4+ Tem	Noverstern	CD4+ Effector Memory	CD4+ Effector Memory
+CD4+ Tem	Noverstern	CD4+ Effector Memory	CD4+ Effector Memory
+CD4+ Tem	Noverstern	CD4+ Effector Memory	CD4+ Effector Memory
+CD4+ Tem	Noverstern	CD4+ Effector Memory	CD4+ Effector Memory
+CD4+ Tem	Noverstern	CD4+ Effector Memory	CD4+ Effector Memory
+CD4+ Tem	Noverstern	CD4+ Effector Memory	CD4+ Effector Memory
+CD4+ Tem	Mabbott	Hs.12:PB:T_cell:CD4+_effector_memory:r1	Hs.12:PB:T_cell:CD4+_effector_memory:r1
+CD4+ Tem	Mabbott	Hs.12:PB:T_cell:CD4+_effector_memory:r2	Hs.12:PB:T_cell:CD4+_effector_memory:r2
+CD4+ Tem	Mabbott	Hs.12:PB:T_cell:CD4+_effector_memory:r3	Hs.12:PB:T_cell:CD4+_effector_memory:r3
+CD4+ Tem	Mabbott	Hs.12:PB:T_cell:CD4+_effector_memory:r4	Hs.12:PB:T_cell:CD4+_effector_memory:r4
+CD8+ naive T-cells	Noverstern	Naive CD8+ T-cell	Naive CD8+ T-cell
+CD8+ naive T-cells	Noverstern	Naive CD8+ T-cell	Naive CD8+ T-cell
+CD8+ naive T-cells	Noverstern	Naive CD8+ T-cell	Naive CD8+ T-cell
+CD8+ naive T-cells	Noverstern	Naive CD8+ T-cell	Naive CD8+ T-cell
+CD8+ naive T-cells	Noverstern	Naive CD8+ T-cell	Naive CD8+ T-cell
+CD8+ naive T-cells	Noverstern	Naive CD8+ T-cell	Naive CD8+ T-cell
+CD8+ naive T-cells	Noverstern	Naive CD8+ T-cell	Naive CD8+ T-cell
+CD8+ T-cells	Mabbott	Hs.42:PB:T_cell:CD8+:pos-sel:r7	Hs.42:PB:T_cell:CD8+:pos-sel:r7
+CD8+ T-cells	Mabbott	Hs.42:PB:T_cell:CD8+:pos-sel:r8	Hs.42:PB:T_cell:CD8+:pos-sel:r8
+CD8+ T-cells	Mabbott	Hs.42:PB:T_cell:CD8+:pos-sel:r9	Hs.42:PB:T_cell:CD8+:pos-sel:r9
+CD8+ T-cells	Mabbott	Hs.42:PB:T_cell:CD8+:pos-sel:r10	Hs.42:PB:T_cell:CD8+:pos-sel:r10
+CD8+ T-cells	Mabbott	Hs.42:PB:T_cell:CD8+:pos-sel:r11	Hs.42:PB:T_cell:CD8+:pos-sel:r11
+CD8+ T-cells	Mabbott	Hs.115:T_cell:CD8+:r1	Hs.115:T_cell:CD8+:r1
+CD8+ T-cells	Mabbott	Hs.115:T_cell:CD8+:r3	Hs.115:T_cell:CD8+:r3
+CD8+ T-cells	Mabbott	Hs.115:T_cell:CD8+:r5	Hs.115:T_cell:CD8+:r5
+CD8+ T-cells	Mabbott	Hs.115:T_cell:CD8+:r6	Hs.115:T_cell:CD8+:r6
+CD8+ T-cells	Mabbott	Hs.115:T_cell:CD8+:r7	Hs.115:T_cell:CD8+:r7
+CD8+ T-cells	Mabbott	Hs.115:T_cell:CD8+:r7	Hs.115:T_cell:CD8+:r7
+CD8+ T-cells	Mabbott	Hs.115:T_cell:CD8+:r9	Hs.115:T_cell:CD8+:r9
+cDC	Blueprint	conventional dendritic cell"	conventional dendritic cell
+cDC	Noverstern	Myeloid Dendritic Cell	Myeloid Dendritic Cell
+cDC	Noverstern	Myeloid Dendritic Cell	Myeloid Dendritic Cell
+cDC	Noverstern	Myeloid Dendritic Cell	Myeloid Dendritic Cell
+cDC	Noverstern	Myeloid Dendritic Cell	Myeloid Dendritic Cell
+cDC	Noverstern	Myeloid Dendritic Cell	Myeloid Dendritic Cell
+cDC	Mabbott	Hs.28:DC:monocyte-derived:cntrl_d5:r1	Hs.28:DC:monocyte-derived:cntrl_d5:r1
+cDC	Mabbott	Hs.28:DC:monocyte-derived:cntrl_d5:r2	Hs.28:DC:monocyte-derived:cntrl_d5:r2
+cDC	Mabbott	Hs.28:DC:monocyte-derived:cntrl_d5:r3	Hs.28:DC:monocyte-derived:cntrl_d5:r3
+cDC	Mabbott	Hs.28:DC:monocyte-derived:cntrl_d5:r4	Hs.28:DC:monocyte-derived:cntrl_d5:r4
+cDC	Mabbott	Hs.28:DC:monocyte-derived:cntrl_d5:r5	Hs.28:DC:monocyte-derived:cntrl_d5:r5
+Chondrocytes	Mabbott	Hs.111:BM:Chondrocytes:MSC-derived:r1	Hs.111:BM:Chondrocytes:MSC-derived:r1
+Chondrocytes	Mabbott	Hs.111:BM:Chondrocytes:MSC-derived:r2	Hs.111:BM:Chondrocytes:MSC-derived:r2
+Chondrocytes	Mabbott	Hs.111:BM:Chondrocytes:MSC-derived:r3	Hs.111:BM:Chondrocytes:MSC-derived:r3
+Chondrocytes	Mabbott	Hs.51:BM:Chondrocytes:MSC-derived:monolayer:r1	Hs.51:BM:Chondrocytes:MSC-derived:monolayer:r1
+Chondrocytes	Mabbott	Hs.51:BM:Chondrocytes:MSC-derived:monolayer:r3	Hs.51:BM:Chondrocytes:MSC-derived:monolayer:r3
+Chondrocytes	Mabbott	Hs.51:BM:Chondrocytes:MSC-derived:3D-cultured:r1	Hs.51:BM:Chondrocytes:MSC-derived:3D-cultured:r1
+Chondrocytes	Mabbott	Hs.51:BM:Chondrocytes:MSC-derived:3D-cultured:r2	Hs.51:BM:Chondrocytes:MSC-derived:3D-cultured:r2
+Chondrocytes	Mabbott	Hs.51:BM:Chondrocytes:MSC-derived:3D-cultured:r3	Hs.51:BM:Chondrocytes:MSC-derived:3D-cultured:r3
+Class-switched memory B-cells	Noverstern	Mature B-cell class switched	Mature B-cell class switched
+Class-switched memory B-cells	Noverstern	Mature B-cell class switched	Mature B-cell class switched
+Class-switched memory B-cells	Noverstern	Mature B-cell class switched	Mature B-cell class switched
+Class-switched memory B-cells	Noverstern	Mature B-cell class switched	Mature B-cell class switched
+Class-switched memory B-cells	Noverstern	Mature B-cell class switched	Mature B-cell class switched
+Class-switched memory B-cells	Blueprint	class switched memory B cell"	class switched memory B cell
+CLP	Blueprint	common lymphoid progenitor	common lymphoid progenitor
+CMP	Noverstern	Common myeloid progenitor	Common myeloid progenitor
+CMP	Noverstern	Common myeloid progenitor	Common myeloid progenitor
+CMP	Noverstern	Common myeloid progenitor	Common myeloid progenitor
+CMP	Noverstern	Common myeloid progenitor	Common myeloid progenitor
+CMP	Mabbott	Hs.67:BM_&Prog.:CMP:r1	Hs.67:BM_&Prog.:CMP:r1
+CMP	Mabbott	Hs.67:BM_&Prog.:CMP:r2	Hs.67:BM_&Prog.:CMP:r2
+DC	Mabbott	Hs.28:DC:monocyte-derived:cntrl_d5:r1	Hs.28:DC:monocyte-derived:cntrl_d5:r1
+DC	Mabbott	Hs.28:DC:monocyte-derived:cntrl_d5:r2	Hs.28:DC:monocyte-derived:cntrl_d5:r2
+DC	Mabbott	Hs.28:DC:monocyte-derived:cntrl_d5:r3	Hs.28:DC:monocyte-derived:cntrl_d5:r3
+DC	Mabbott	Hs.28:DC:monocyte-derived:cntrl_d5:r4	Hs.28:DC:monocyte-derived:cntrl_d5:r4
+DC	Mabbott	Hs.28:DC:monocyte-derived:cntrl_d5:r5	Hs.28:DC:monocyte-derived:cntrl_d5:r5
+DC	Blueprint	conventional dendritic cell"	conventional dendritic cell
+DC	Abbas	DendriticCell-Control-1 [HG-U133A]	DendriticCell-Control-1 [HG-U133A]
+DC	Abbas	DendriticCell-Control-2 [HG-U133A]	DendriticCell-Control-2 [HG-U133A]
+DC	Abbas	DendriticCell-Control-3 [HG-U133A]	DendriticCell-Control-3 [HG-U133A]
+DC	Abbas	DendriticCell-Control-4 [HG-U133A]	DendriticCell-Control-4 [HG-U133A]
+DC	Abbas	DendriticCell-Control-5 [HG-U133A]	DendriticCell-Control-5 [HG-U133A]
+DC	Abbas	DendriticCell-Control-6 [HG-U133A]	DendriticCell-Control-6 [HG-U133A]
+Endothelial cells	Mabbott	Hs.50:Endothelial_cells:blood_vessel:cntrl:r1	Hs.50:Endothelial_cells:blood_vessel:cntrl:r1
+Endothelial cells	Mabbott	Hs.50:Endothelial_cells:blood_vessel:cntrl:r2	Hs.50:Endothelial_cells:blood_vessel:cntrl:r2
+Endothelial cells	Mabbott	Hs.50:Endothelial_cells:blood_vessel:cntrl:r3	Hs.50:Endothelial_cells:blood_vessel:cntrl:r3
+Endothelial cells	Mabbott	Hs.50:Endothelial_cells:blood_vessel:cntrl:r4	Hs.50:Endothelial_cells:blood_vessel:cntrl:r4
+Epithelial cells	Mabbott	Hs.19:Epithelial_cells:bladder:r8	Hs.19:Epithelial_cells:bladder:r8
+Epithelial cells	Mabbott	Hs.19:Epithelial_cells:bladder:r12	Hs.19:Epithelial_cells:bladder:r12
+Epithelial cells	Mabbott	Hs.19:Epithelial_cells:bladder:r13	Hs.19:Epithelial_cells:bladder:r13
+Epithelial cells	Mabbott	Hs.19:Epithelial_cells:bladder:r8_1	Hs.19:Epithelial_cells:bladder:r8_1
+Epithelial cells	Mabbott	Hs.19:Epithelial_cells:bladder:r12_1	Hs.19:Epithelial_cells:bladder:r12_1
+Epithelial cells	Mabbott	Hs.19:Epithelial_cells:bladder:r13_1	Hs.19:Epithelial_cells:bladder:r13_1
+Epithelial cells	Mabbott	Hs.88:Epithelial_cells:bronchial:d0:r1	Hs.88:Epithelial_cells:bronchial:d0:r1
+Epithelial cells	Mabbott	Hs.88:Epithelial_cells:bronchial:d8:r1	Hs.88:Epithelial_cells:bronchial:d8:r1
+Epithelial cells	Mabbott	Hs.88:Epithelial_cells:bronchial:d14:r1	Hs.88:Epithelial_cells:bronchial:d14:r1
+Epithelial cells	Mabbott	Hs.88:Epithelial_cells:bronchial:d21:r1	Hs.88:Epithelial_cells:bronchial:d21:r1
+Epithelial cells	Mabbott	Hs.88:Epithelial_cells:bronchial:d28:r1	Hs.88:Epithelial_cells:bronchial:d28:r1
+Epithelial cells	Mabbott	Hs.88:Epithelial_cells:bronchial:d0:r2	Hs.88:Epithelial_cells:bronchial:d0:r2
+Epithelial cells	Mabbott	Hs.88:Epithelial_cells:bronchial:d8:r2	Hs.88:Epithelial_cells:bronchial:d8:r2
+Epithelial cells	Mabbott	Hs.88:Epithelial_cells:bronchial:d14:r2	Hs.88:Epithelial_cells:bronchial:d14:r2
+Epithelial cells	Mabbott	Hs.88:Epithelial_cells:bronchial:d21:r2	Hs.88:Epithelial_cells:bronchial:d21:r2
+Epithelial cells	Mabbott	Hs.88:Epithelial_cells:bronchial:d28:r2	Hs.88:Epithelial_cells:bronchial:d28:r2
+Erythrocytes	Blueprint	erythroblast"	erythroblast
+Erythrocytes	Mabbott	Hs.1:Erythroblast:inter-erythroblast:r1	Hs.1:Erythroblast:inter-erythroblast:r1
+Erythrocytes	Mabbott	Hs.1:Erythroblast:inter-erythroblast:r2	Hs.1:Erythroblast:inter-erythroblast:r2
+Erythrocytes	Mabbott	Hs.1:Erythroblast:inter-erythroblast:r3	Hs.1:Erythroblast:inter-erythroblast:r3
+Erythrocytes	Mabbott	Hs.1:Erythroblast:inter-erythroblast:r4	Hs.1:Erythroblast:inter-erythroblast:r4
+Erythrocytes	Mabbott	Hs.1:Erythroblast:late-erythroblast:	Hs.1:Erythroblast:late-erythroblast:
+Erythrocytes	Mabbott	Hs.1:Erythroblast:pro-erythroblast:r1	Hs.1:Erythroblast:pro-erythroblast:r1
+Erythrocytes	Mabbott	Hs.1:Erythroblast:pro-erythroblast:r2	Hs.1:Erythroblast:pro-erythroblast:r2
+Erythrocytes	Mabbott	Hs.1:Erythroblast:pro-erythroblast:r3	Hs.1:Erythroblast:pro-erythroblast:r3
+Erythrocytes	Noverstern	Erythroid_CD34+ CD71+ GlyA-	Erythroid_CD34+ CD71+ GlyA-
+Erythrocytes	Noverstern	Erythroid_CD34+ CD71+ GlyA-	Erythroid_CD34+ CD71+ GlyA-
+Erythrocytes	Noverstern	Erythroid_CD34+ CD71+ GlyA-	Erythroid_CD34+ CD71+ GlyA-
+Erythrocytes	Noverstern	Erythroid_CD34+ CD71+ GlyA-	Erythroid_CD34+ CD71+ GlyA-
+Erythrocytes	Noverstern	Erythroid_CD34+ CD71+ GlyA-	Erythroid_CD34+ CD71+ GlyA-
+Erythrocytes	Noverstern	Erythroid_CD34+ CD71+ GlyA-	Erythroid_CD34+ CD71+ GlyA-
+Erythrocytes	Noverstern	Erythroid_CD34+ CD71+ GlyA-	Erythroid_CD34+ CD71+ GlyA-
+Erythrocytes	Noverstern	Erythroid_CD34- CD71+ GlyA-	Erythroid_CD34- CD71+ GlyA-
+Erythrocytes	Noverstern	Erythroid_CD34- CD71+ GlyA-	Erythroid_CD34- CD71+ GlyA-
+Erythrocytes	Noverstern	Erythroid_CD34- CD71+ GlyA-	Erythroid_CD34- CD71+ GlyA-
+Erythrocytes	Noverstern	Erythroid_CD34- CD71+ GlyA-	Erythroid_CD34- CD71+ GlyA-
+Erythrocytes	Noverstern	Erythroid_CD34- CD71+ GlyA-	Erythroid_CD34- CD71+ GlyA-
+Erythrocytes	Noverstern	Erythroid_CD34- CD71+ GlyA-	Erythroid_CD34- CD71+ GlyA-
+Erythrocytes	Noverstern	Erythroid_CD34- CD71+ GlyA-	Erythroid_CD34- CD71+ GlyA-
+Erythrocytes	Noverstern	Erythroid_CD34- CD71+ GlyA+	Erythroid_CD34- CD71+ GlyA+
+Erythrocytes	Noverstern	Erythroid_CD34- CD71+ GlyA+	Erythroid_CD34- CD71+ GlyA+
+Erythrocytes	Noverstern	Erythroid_CD34- CD71+ GlyA+	Erythroid_CD34- CD71+ GlyA+
+Erythrocytes	Noverstern	Erythroid_CD34- CD71+ GlyA+	Erythroid_CD34- CD71+ GlyA+
+Erythrocytes	Noverstern	Erythroid_CD34- CD71+ GlyA+	Erythroid_CD34- CD71+ GlyA+
+Erythrocytes	Noverstern	Erythroid_CD34- CD71+ GlyA+	Erythroid_CD34- CD71+ GlyA+
+Erythrocytes	Noverstern	Erythroid_CD34- CD71lo GlyA+	Erythroid_CD34- CD71lo GlyA+
+Erythrocytes	Noverstern	Erythroid_CD34- CD71lo GlyA+	Erythroid_CD34- CD71lo GlyA+
+Erythrocytes	Noverstern	Erythroid_CD34- CD71lo GlyA+	Erythroid_CD34- CD71lo GlyA+
+Erythrocytes	Noverstern	Erythroid_CD34- CD71lo GlyA+	Erythroid_CD34- CD71lo GlyA+
+Erythrocytes	Noverstern	Erythroid_CD34- CD71lo GlyA+	Erythroid_CD34- CD71lo GlyA+
+Erythrocytes	Noverstern	Erythroid_CD34- CD71lo GlyA+	Erythroid_CD34- CD71lo GlyA+
+Erythrocytes	Noverstern	Erythroid_CD34- CD71lo GlyA+	Erythroid_CD34- CD71lo GlyA+
+Erythrocytes	Noverstern	Erythroid_CD34- CD71- GlyA+	Erythroid_CD34- CD71- GlyA+
+Erythrocytes	Noverstern	Erythroid_CD34- CD71- GlyA+	Erythroid_CD34- CD71- GlyA+
+Erythrocytes	Noverstern	Erythroid_CD34- CD71- GlyA+	Erythroid_CD34- CD71- GlyA+
+Erythrocytes	Noverstern	Erythroid_CD34- CD71- GlyA+	Erythroid_CD34- CD71- GlyA+
+Erythrocytes	Noverstern	Erythroid_CD34- CD71- GlyA+	Erythroid_CD34- CD71- GlyA+
+Erythrocytes	Noverstern	Erythroid_CD34- CD71- GlyA+	Erythroid_CD34- CD71- GlyA+
+Fibroblasts	Encode	fibroblast of lung"	fibroblast of lung
+Fibroblasts	Encode	fibroblast of dermis"	fibroblast of dermis
+Fibroblasts	Encode	fibroblast of villous mesenchyme"	fibroblast of villous mesenchyme
+Fibroblasts	Encode	fibroblast of the aortic adventitia"	fibroblast of the aortic adventitia
+Fibroblasts	Encode	bronchus fibroblast of lung"	bronchus fibroblast of lung
+Fibroblasts	Mabbott	Hs.33:Fibroblasts:foreskin:cntrl_24h:r1	Hs.33:Fibroblasts:foreskin:cntrl_24h:r1
+Fibroblasts	Mabbott	Hs.33:Fibroblasts:foreskin:cntrl_24h:r2	Hs.33:Fibroblasts:foreskin:cntrl_24h:r2
+Fibroblasts	Mabbott	Hs.33:Fibroblasts:foreskin:T._cruzi_24h:r1	Hs.33:Fibroblasts:foreskin:T._cruzi_24h:r1
+Fibroblasts	Mabbott	Hs.33:Fibroblasts:foreskin:T._cruzi_24h:r2	Hs.33:Fibroblasts:foreskin:T._cruzi_24h:r2
+Fibroblasts	Mabbott	Hs.33:Fibroblasts:breast:r1	Hs.33:Fibroblasts:breast:r1
+Fibroblasts	Mabbott	Hs.33:Fibroblasts:breast:r2	Hs.33:Fibroblasts:breast:r2
+Fibroblasts	Mabbott	Hs.33:Fibroblasts:breast:r5	Hs.33:Fibroblasts:breast:r5
+Fibroblasts	Mabbott	Hs.33:Fibroblasts:breast:r6	Hs.33:Fibroblasts:breast:r6
+Fibroblasts	Mabbott	Hs.33:Fibroblasts:breast:r7	Hs.33:Fibroblasts:breast:r7
+Fibroblasts	Mabbott	Hs.33:Fibroblasts:breast:r8	Hs.33:Fibroblasts:breast:r8
+GMP	Blueprint	granulocyte monocyte progenitor cell	granulocyte monocyte progenitor cell
+GMP	Noverstern	Granulocyte/monocyte progenitor	Granulocyte/monocyte progenitor
+GMP	Noverstern	Granulocyte/monocyte progenitor	Granulocyte/monocyte progenitor
+GMP	Noverstern	Granulocyte/monocyte progenitor	Granulocyte/monocyte progenitor
+GMP	Noverstern	Granulocyte/monocyte progenitor	Granulocyte/monocyte progenitor
+Hepatocytes	Mabbott	Hs.60:Hepatocytes:r1	Hs.60:Hepatocytes:r1
+Hepatocytes	Mabbott	Hs.60:Hepatocytes:r2	Hs.60:Hepatocytes:r2
+Hepatocytes	Mabbott	Hs.60:Hepatocytes:r3	Hs.60:Hepatocytes:r3
+HSC	Blueprint	hematopoietic stem cell	hematopoietic stem cell
+HSC	Noverstern	Hematopoietic stem cell_CD133+ CD34dim	Hematopoietic stem cell_CD133+ CD34dim
+HSC	Noverstern	Hematopoietic stem cell_CD133+ CD34dim	Hematopoietic stem cell_CD133+ CD34dim
+HSC	Noverstern	Hematopoietic stem cell_CD133+ CD34dim	Hematopoietic stem cell_CD133+ CD34dim
+HSC	Noverstern	Hematopoietic stem cell_CD133+ CD34dim	Hematopoietic stem cell_CD133+ CD34dim
+HSC	Noverstern	Hematopoietic stem cell_CD133+ CD34dim	Hematopoietic stem cell_CD133+ CD34dim
+HSC	Noverstern	Hematopoietic stem cell_CD133+ CD34dim	Hematopoietic stem cell_CD133+ CD34dim
+HSC	Noverstern	Hematopoietic stem cell_CD133+ CD34dim	Hematopoietic stem cell_CD133+ CD34dim
+HSC	Noverstern	Hematopoietic stem cell_CD133+ CD34dim	Hematopoietic stem cell_CD133+ CD34dim
+HSC	Noverstern	Hematopoietic stem cell_CD133+ CD34dim	Hematopoietic stem cell_CD133+ CD34dim
+HSC	Noverstern	Hematopoietic stem cell_CD133+ CD34dim	Hematopoietic stem cell_CD133+ CD34dim
+HSC	Noverstern	Hematopoietic stem cell_CD38- CD34+	Hematopoietic stem cell_CD38- CD34+
+HSC	Noverstern	Hematopoietic stem cell_CD38- CD34+	Hematopoietic stem cell_CD38- CD34+
+HSC	Noverstern	Hematopoietic stem cell_CD38- CD34+	Hematopoietic stem cell_CD38- CD34+
+HSC	Noverstern	Hematopoietic stem cell_CD38- CD34+	Hematopoietic stem cell_CD38- CD34+
+iDC	Mabbott	Hs.103:DC:monocyte-derived:immature_cntrl:r1	Hs.103:DC:monocyte-derived:immature_cntrl:r1
+iDC	Mabbott	Hs.103:DC:monocyte-derived:immature_cntrl:r2	Hs.103:DC:monocyte-derived:immature_cntrl:r2
+iDC	Mabbott	Hs.103:DC:monocyte-derived:immature_cntrl:r3	Hs.103:DC:monocyte-derived:immature_cntrl:r3
+iDC	Mabbott	Hs.14:DC:monocyte-derived:immature_6h:	Hs.14:DC:monocyte-derived:immature_6h:
+iDC	Mabbott	Hs.14:DC:monocyte-derived:immature_12h:	Hs.14:DC:monocyte-derived:immature_12h:
+iDC	Mabbott	Hs.14:DC:monocyte-derived:immature_24h:	Hs.14:DC:monocyte-derived:immature_24h:
+iDC	Mabbott	Hs.14:DC:monocyte-derived:immature_48h:	Hs.14:DC:monocyte-derived:immature_48h:
+Keratinocytes	Encode	hair follicular keratinocyte"	hair follicular keratinocyte
+Keratinocytes	Mabbott	Hs.101:Keratinocytes:cntrl:r1	Hs.101:Keratinocytes:cntrl:r1
+Keratinocytes	Mabbott	Hs.101:Keratinocytes:cntrl:r2	Hs.101:Keratinocytes:cntrl:r2
+Keratinocytes	Mabbott	Hs.101:Keratinocytes:cntrl:r3	Hs.101:Keratinocytes:cntrl:r3
+ly Endothelial cells	Mabbott	Hs.50:Endothelial_cells:lymphatic:cntrl:r1	Hs.50:Endothelial_cells:lymphatic:cntrl:r1
+ly Endothelial cells	Mabbott	Hs.50:Endothelial_cells:lymphatic:cntrl:r2	Hs.50:Endothelial_cells:lymphatic:cntrl:r2
+ly Endothelial cells	Mabbott	Hs.50:Endothelial_cells:lymphatic:cntrl:r3	Hs.50:Endothelial_cells:lymphatic:cntrl:r3
+ly Endothelial cells	Mabbott	Hs.50:Endothelial_cells:lymphatic:cntrl:r4	Hs.50:Endothelial_cells:lymphatic:cntrl:r4
+Macrophages	Mabbott	Hs.20:Macrophage:monocyte-derived:cntrl:r1	Hs.20:Macrophage:monocyte-derived:cntrl:r1
+Macrophages	Mabbott	Hs.20:Macrophage:monocyte-derived:cntrl:r2	Hs.20:Macrophage:monocyte-derived:cntrl:r2
+Macrophages	Mabbott	Hs.53:Macrophage:monocyte-derived:cntrl_4h:r1	Hs.53:Macrophage:monocyte-derived:cntrl_4h:r1
+Macrophages	Mabbott	Hs.53:Macrophage:monocyte-derived:cntrl_4h:r2	Hs.53:Macrophage:monocyte-derived:cntrl_4h:r2
+Macrophages	Mabbott	Hs.53:Macrophage:monocyte-derived:cntrl_4h:r3	Hs.53:Macrophage:monocyte-derived:cntrl_4h:r3
+Macrophages	Abbas	Monocyte-Day7-1 [HG-U133A]	Monocyte-Day7-1 [HG-U133A]
+Macrophages	Abbas	Monocyte-Day7-2 [HG-U133A]	Monocyte-Day7-2 [HG-U133A]
+Macrophages	Abbas	Monocyte-Day7-3 [HG-U133A]	Monocyte-Day7-3 [HG-U133A]
+Macrophages	Abbas	Monocyte-Day7-4 [HG-U133A]	Monocyte-Day7-4 [HG-U133A]
+Macrophages	Abbas	Monocyte-Day7-5 [HG-U133A]	Monocyte-Day7-5 [HG-U133A]
+Macrophages	Abbas	Monocyte-Day7-6 [HG-U133A]	Monocyte-Day7-6 [HG-U133A]
+Macrophages	Abbas	Monocyte-Day7-7 [HG-U133A]	Monocyte-Day7-7 [HG-U133A]
+Macrophages	Abbas	Monocyte-Day7-8 [HG-U133A]	Monocyte-Day7-8 [HG-U133A]
+Macrophages	Abbas	Monocyte-Day7-9 [HG-U133A]	Monocyte-Day7-9 [HG-U133A]
+Macrophages	Abbas	Monocyte-Day7-10 [HG-U133A]	Monocyte-Day7-10 [HG-U133A]
+Macrophages	Abbas	Monocyte-Day7-11 [HG-U133A]	Monocyte-Day7-11 [HG-U133A]
+Macrophages	Abbas	Monocyte-Day7-12 [HG-U133A]	Monocyte-Day7-12 [HG-U133A]
+Macrophages	Blueprint	macrophage"	macrophage
+Macrophages M1	Mabbott	Hs.21:Macrophage:monocyte-derived:IFNg_24h:r1	Hs.21:Macrophage:monocyte-derived:IFNg_24h:r1
+Macrophages M1	Mabbott	Hs.21:Macrophage:monocyte-derived:IFNg_24h:r5	Hs.21:Macrophage:monocyte-derived:IFNg_24h:r5
+Macrophages M1	Mabbott	Hs.21:Macrophage:monocyte-derived:IFNg_24h:r2	Hs.21:Macrophage:monocyte-derived:IFNg_24h:r2
+Macrophages M1	Mabbott	Hs.21:Macrophage:monocyte-derived:IFNg_24h:r3	Hs.21:Macrophage:monocyte-derived:IFNg_24h:r3
+Macrophages M1	Mabbott	Hs.21:Macrophage:monocyte-derived:IFNg_24h:r6	Hs.21:Macrophage:monocyte-derived:IFNg_24h:r6
+Macrophages M1	Mabbott	Hs.21:Macrophage:monocyte-derived:IFNg_24h:r4	Hs.21:Macrophage:monocyte-derived:IFNg_24h:r4
+Macrophages M1	Mabbott	Hs.20:Macrophage:monocyte-derived:M-CSF:r1	Hs.20:Macrophage:monocyte-derived:M-CSF:r1
+Macrophages M1	Mabbott	Hs.20:Macrophage:monocyte-derived:M-CSF:r2	Hs.20:Macrophage:monocyte-derived:M-CSF:r2
+Macrophages M1	Mabbott	Hs.20:Macrophage:monocyte-derived:M-CSF/IFNg:r1	Hs.20:Macrophage:monocyte-derived:M-CSF/IFNg:r1
+Macrophages M1	Mabbott	Hs.20:Macrophage:monocyte-derived:M-CSF/IFNg:r2	Hs.20:Macrophage:monocyte-derived:M-CSF/IFNg:r2
+Macrophages M2	Blueprint	alternatively activated macrophage"	alternatively activated macrophage
+Macrophages M2	Mabbott	Hs.104:Macrophage:monocyte-derived:IL-4/TGFb_24h:r1	Hs.104:Macrophage:monocyte-derived:IL-4/TGFb_24h:r1
+Macrophages M2	Mabbott	Hs.104:Macrophage:monocyte-derived:IL-4/TGFb_24h:r2	Hs.104:Macrophage:monocyte-derived:IL-4/TGFb_24h:r2
+Macrophages M2	Mabbott	Hs.104:Macrophage:monocyte-derived:IL-4/TGFb_24h:r3	Hs.104:Macrophage:monocyte-derived:IL-4/TGFb_24h:r3
+Macrophages M2	Mabbott	Hs.104:Macrophage:monocyte-derived:IL-4/TGFb_24h:r4	Hs.104:Macrophage:monocyte-derived:IL-4/TGFb_24h:r4
+Macrophages M2	Mabbott	Hs.104:Macrophage:monocyte-derived:IL-4/TGFb_24h:r5	Hs.104:Macrophage:monocyte-derived:IL-4/TGFb_24h:r5
+Megakaryocytes	Noverstern	Megakaryocyte	Megakaryocyte
+Megakaryocytes	Noverstern	Megakaryocyte	Megakaryocyte
+Megakaryocytes	Noverstern	Megakaryocyte	Megakaryocyte
+Megakaryocytes	Noverstern	Megakaryocyte	Megakaryocyte
+Megakaryocytes	Noverstern	Megakaryocyte	Megakaryocyte
+Megakaryocytes	Noverstern	Megakaryocyte	Megakaryocyte
+Megakaryocytes	Noverstern	Megakaryocyte	Megakaryocyte
+Megakaryocytes	Blueprint	CD34-	CD34-
+Megakaryocytes	Blueprint	CD34-negative Melanocytes,Encode,"melanocyte of skin"	CD34-negative Melanocytes,Encode,melanocyte of skin
+Memory B-cells	Blueprint	memory B cell"	memory B cell
+Memory B-cells	Abbas	Bcell-Memory_IgG_IgA-1 [HG-U133A]	Bcell-Memory_IgG_IgA-1 [HG-U133A]
+Memory B-cells	Abbas	Bcell-Memory_IgG_IgA-2 [HG-U133A]	Bcell-Memory_IgG_IgA-2 [HG-U133A]
+Memory B-cells	Abbas	Bcell-Memory_IgG_IgA-3 [HG-U133A]	Bcell-Memory_IgG_IgA-3 [HG-U133A]
+Memory B-cells	Abbas	Bcell-Memory_IgG_IgA-4 [HG-U133A]	Bcell-Memory_IgG_IgA-4 [HG-U133A]
+Memory B-cells	Abbas	Bcell-Memory_IgM-1 [HG-U133A]	Bcell-Memory_IgM-1 [HG-U133A]
+Memory B-cells	Abbas	Bcell-Memory_IgM-2 [HG-U133A]	Bcell-Memory_IgM-2 [HG-U133A]
+Memory B-cells	Abbas	Bcell-Memory_IgM-3 [HG-U133A]	Bcell-Memory_IgM-3 [HG-U133A]
+Memory B-cells	Abbas	Bcell-Memory_IgM-4 [HG-U133A]	Bcell-Memory_IgM-4 [HG-U133A]
+Memory B-cells	Mabbott	Hs.25:tonsil:B_cell:Memory:r28	Hs.25:tonsil:B_cell:Memory:r28
+Memory B-cells	Mabbott	Hs.25:tonsil:B_cell:Memory:r36	Hs.25:tonsil:B_cell:Memory:r36
+Memory B-cells	Mabbott	Hs.25:tonsil:B_cell:Memory:r38	Hs.25:tonsil:B_cell:Memory:r38
+MEP	Noverstern	Megakaryocyte/ erythroid progenitor	Megakaryocyte/ erythroid progenitor
+MEP	Noverstern	Megakaryocyte/ erythroid progenitor	Megakaryocyte/ erythroid progenitor
+MEP	Noverstern	Megakaryocyte/ erythroid progenitor	Megakaryocyte/ erythroid progenitor
+MEP	Noverstern	Megakaryocyte/ erythroid progenitor	Megakaryocyte/ erythroid progenitor
+MEP	Noverstern	Megakaryocyte/ erythroid progenitor	Megakaryocyte/ erythroid progenitor
+MEP	Noverstern	Megakaryocyte/ erythroid progenitor	Megakaryocyte/ erythroid progenitor
+MEP	Noverstern	Megakaryocyte/ erythroid progenitor	Megakaryocyte/ erythroid progenitor
+MEP	Noverstern	Megakaryocyte/ erythroid progenitor	Megakaryocyte/ erythroid progenitor
+MEP	Noverstern	Megakaryocyte/ erythroid progenitor	Megakaryocyte/ erythroid progenitor
+MEP	Blueprint	megakaryocyte-erythroid progenitor cell	megakaryocyte-erythroid progenitor cell
+Mesangial cells	Encode	mesangial cell"	mesangial cell
+Monocytes	Blueprint	CD14-positive Monocytes,Abbas,Monocyte-Day0-1 [HG-U133A] Monocytes,Abbas,Monocyte-Day0-2 [HG-U133A] Monocytes,Abbas,Monocyte-Day0-3 [HG-U133A] Monocytes,Abbas,Monocyte-Day0-4 [HG-U133A] Monocytes,Abbas,Monocyte-Day0-5 [HG-U133A] Monocytes,Abbas,Monocyte-Day0-6 [HG-U133A] Monocytes,Abbas,Monocyte-Day0-7 [HG-U133A] Monocytes,Abbas,Monocyte-Day0-8 [HG-U133A] Monocytes,Abbas,Monocyte-Day0-9 [HG-U133A] Monocytes,Abbas,Monocyte-Day0-10 [HG-U133A] Monocytes,Abbas,Monocyte-Day0-11 [HG-U133A] Monocytes,Abbas,Monocyte-Day0-12 [HG-U133A] Monocytes,Noverstern,Monocyte Monocytes,Noverstern,Monocyte Monocytes,Noverstern,Monocyte Monocytes,Noverstern,Monocyte Monocytes,Noverstern,Monocyte Monocytes,Mabbott,Hs.115:Monocyte:CD14+:r1 Monocytes,Mabbott,Hs.115:Monocyte:CD14+:r2 Monocytes,Mabbott,Hs.115:Monocyte:CD14+:r3 Monocytes,Mabbott,Hs.115:Monocyte:CD14+:r4 Monocytes,Mabbott,Hs.115:Monocyte:CD14+:r5 Monocytes,Mabbott,Hs.115:Monocyte:CD14+:r6 Monocytes,Mabbott,Hs.36:Monocyte:CD14+:r1 Monocytes,Mabbott,Hs.36:Monocyte:CD14+:r2 Monocytes,Mabbott,Hs.36:Monocyte:CD14+:r3 Monocytes,Mabbott,Hs.54:Monocyte:CD16-:r1 Monocytes,Mabbott,Hs.54:Monocyte:CD16-:r2 Monocytes,Mabbott,Hs.54:Monocyte:CD16-:r3 Monocytes,Mabbott,Hs.54:Monocyte:CD16-:r4 Monocytes,Mabbott,Hs.54:Monocyte:CD16_+:r1 Monocytes,Mabbott,Hs.54:Monocyte:CD16_+:r2 Monocytes,Mabbott,Hs.54:Monocyte:CD16_+:r3 Monocytes,Mabbott,Hs.61:Monocyte:CD16-:r1 Monocytes,Mabbott,Hs.61:Monocyte:CD16-:r2 Monocytes,Mabbott,Hs.61:Monocyte:CD16-:r3 Monocytes,Mabbott,Hs.61:Monocyte:CD16_+:r1 Monocytes,Mabbott,Hs.61:Monocyte:CD16_+:r2 Monocytes,Mabbott,Hs.61:Monocyte:CD16_+:r3 Monocytes,Mabbott,Hs.90:Monocyte:r303 Monocytes,Mabbott,Hs.90:Monocyte:r307 Monocytes,Mabbott,Hs.90:Monocyte:r309 Monocytes,Mabbott,Hs.90:Monocyte:r311 Monocytes,Mabbott,Hs.90:Monocyte:r313 Monocytes,Mabbott,Hs.90:Monocyte:r317 MPP,blueprint,hematopoietic multipotent progenitor cell MPP,Fantom5,Multipot. Cord Blood Unrestrict. Somatic stem cell MPP,Mabbott,Hs.63:fetal_blood:BM_&Prog.:MSC:r1 MPP,Mabbott,Hs.63:fetal_blood:BM_&Prog.:MSC:r2 MPP,Mabbott,Hs.63:fetal_blood:BM_&Prog.:MSC:r3 MPP,Mabbott,Hs.63:fetal_bm:BM_&Prog.:MSC:r1 MPP,Mabbott,Hs.63:fetal_bm:BM_&Prog.:MSC:r2 MPP,Mabbott,Hs.63:fetal_bm:BM_&Prog.:MSC:r3 MPP,Mabbott,Hs.63:fetal_liver:BM_&Prog.:MSC:r1 MPP,Mabbott,Hs.63:fetal_liver:BM_&Prog.:MSC:r2 MPP,Mabbott,Hs.63:fetal_liver:BM_&Prog.:MSC:r3 mv Endothelial cells,Fantom5,Endothelial Microvascular mv Endothelial cells,Encode,"bladder microvascular endothelial cell"	CD14-positive Monocytes,Abbas,Monocyte-Day0-1 [HG-U133A] Monocytes,Abbas,Monocyte-Day0-2 [HG-U133A] Monocytes,Abbas,Monocyte-Day0-3 [HG-U133A] Monocytes,Abbas,Monocyte-Day0-4 [HG-U133A] Monocytes,Abbas,Monocyte-Day0-5 [HG-U133A] Monocytes,Abbas,Monocyte-Day0-6 [HG-U133A] Monocytes,Abbas,Monocyte-Day0-7 [HG-U133A] Monocytes,Abbas,Monocyte-Day0-8 [HG-U133A] Monocytes,Abbas,Monocyte-Day0-9 [HG-U133A] Monocytes,Abbas,Monocyte-Day0-10 [HG-U133A] Monocytes,Abbas,Monocyte-Day0-11 [HG-U133A] Monocytes,Abbas,Monocyte-Day0-12 [HG-U133A] Monocytes,Noverstern,Monocyte Monocytes,Noverstern,Monocyte Monocytes,Noverstern,Monocyte Monocytes,Noverstern,Monocyte Monocytes,Noverstern,Monocyte Monocytes,Mabbott,Hs.115:Monocyte:CD14+:r1 Monocytes,Mabbott,Hs.115:Monocyte:CD14+:r2 Monocytes,Mabbott,Hs.115:Monocyte:CD14+:r3 Monocytes,Mabbott,Hs.115:Monocyte:CD14+:r4 Monocytes,Mabbott,Hs.115:Monocyte:CD14+:r5 Monocytes,Mabbott,Hs.115:Monocyte:CD14+:r6 Monocytes,Mabbott,Hs.36:Monocyte:CD14+:r1 Monocytes,Mabbott,Hs.36:Monocyte:CD14+:r2 Monocytes,Mabbott,Hs.36:Monocyte:CD14+:r3 Monocytes,Mabbott,Hs.54:Monocyte:CD16-:r1 Monocytes,Mabbott,Hs.54:Monocyte:CD16-:r2 Monocytes,Mabbott,Hs.54:Monocyte:CD16-:r3 Monocytes,Mabbott,Hs.54:Monocyte:CD16-:r4 Monocytes,Mabbott,Hs.54:Monocyte:CD16_+:r1 Monocytes,Mabbott,Hs.54:Monocyte:CD16_+:r2 Monocytes,Mabbott,Hs.54:Monocyte:CD16_+:r3 Monocytes,Mabbott,Hs.61:Monocyte:CD16-:r1 Monocytes,Mabbott,Hs.61:Monocyte:CD16-:r2 Monocytes,Mabbott,Hs.61:Monocyte:CD16-:r3 Monocytes,Mabbott,Hs.61:Monocyte:CD16_+:r1 Monocytes,Mabbott,Hs.61:Monocyte:CD16_+:r2 Monocytes,Mabbott,Hs.61:Monocyte:CD16_+:r3 Monocytes,Mabbott,Hs.90:Monocyte:r303 Monocytes,Mabbott,Hs.90:Monocyte:r307 Monocytes,Mabbott,Hs.90:Monocyte:r309 Monocytes,Mabbott,Hs.90:Monocyte:r311 Monocytes,Mabbott,Hs.90:Monocyte:r313 Monocytes,Mabbott,Hs.90:Monocyte:r317 MPP,blueprint,hematopoietic multipotent progenitor cell MPP,Fantom5,Multipot. Cord Blood Unrestrict. Somatic stem cell MPP,Mabbott,Hs.63:fetal_blood:BM_&Prog.:MSC:r1 MPP,Mabbott,Hs.63:fetal_blood:BM_&Prog.:MSC:r2 MPP,Mabbott,Hs.63:fetal_blood:BM_&Prog.:MSC:r3 MPP,Mabbott,Hs.63:fetal_bm:BM_&Prog.:MSC:r1 MPP,Mabbott,Hs.63:fetal_bm:BM_&Prog.:MSC:r2 MPP,Mabbott,Hs.63:fetal_bm:BM_&Prog.:MSC:r3 MPP,Mabbott,Hs.63:fetal_liver:BM_&Prog.:MSC:r1 MPP,Mabbott,Hs.63:fetal_liver:BM_&Prog.:MSC:r2 MPP,Mabbott,Hs.63:fetal_liver:BM_&Prog.:MSC:r3 mv Endothelial cells,Fantom5,Endothelial Microvascular mv Endothelial cells,Encode,bladder microvascular endothelial cell
+mv Endothelial cells	Encode	dermis microvascular lymphatic vessel endothelial cell"	dermis microvascular lymphatic vessel endothelial cell
+mv Endothelial cells	Encode	endometrial microvascular endothelial cells"	endometrial microvascular endothelial cells
+mv Endothelial cells	Encode	mammary microvascular endothelial cell"	mammary microvascular endothelial cell
+Myocytes	Encode	skeletal muscle myoblast"	skeletal muscle myoblast
+Myocytes	Encode	regular cardiac myocyte"	regular cardiac myocyte
+naive B-cells	Abbas	Bcell-naïve-1 [HG-U133A]	Bcell-naïve-1 [HG-U133A]
+naive B-cells	Abbas	Bcell-naïve-2 [HG-U133A]	Bcell-naïve-2 [HG-U133A]
+naive B-cells	Abbas	Bcell-naïve-3 [HG-U133A]	Bcell-naïve-3 [HG-U133A]
+naive B-cells	Abbas	Bcell-naïve-4 [HG-U133A]	Bcell-naïve-4 [HG-U133A]
+naive B-cells	Abbas	Bcell-naïve-5 [HG-U133A]	Bcell-naïve-5 [HG-U133A]
+naive B-cells	Abbas	Bcell-naïve-6 [HG-U133A]	Bcell-naïve-6 [HG-U133A]
+naive B-cells	Abbas	Bcell-naïve-7 [HG-U133A]	Bcell-naïve-7 [HG-U133A]
+naive B-cells	Noverstern	Naïve B-cells	Naïve B-cells
+naive B-cells	Noverstern	Naïve B-cells	Naïve B-cells
+naive B-cells	Noverstern	Naïve B-cells	Naïve B-cells
+naive B-cells	Noverstern	Naïve B-cells	Naïve B-cells
+naive B-cells	Noverstern	Naïve B-cells	Naïve B-cells
+Neutrophils	Noverstern	Granulocyte (Neutrophil)	Granulocyte (Neutrophil)
+Neutrophils	Noverstern	Granulocyte (Neutrophil)	Granulocyte (Neutrophil)
+Neutrophils	Noverstern	Granulocyte (Neutrophil)	Granulocyte (Neutrophil)
+Neutrophils	Noverstern	Granulocyte (Neutrophil)	Granulocyte (Neutrophil)
+Neutrophils	blueprint	Neutrophil-Resting-1 [HG-U133A]	Neutrophil-Resting-1 [HG-U133A]
+Neutrophils	blueprint	Neutrophil-Resting-2 [HG-U133A]	Neutrophil-Resting-2 [HG-U133A]
+Neutrophils	blueprint	Neutrophil-Resting-3 [HG-U133A]	Neutrophil-Resting-3 [HG-U133A]
+Neutrophils	blueprint	Neutrophil-Resting-4 [HG-U133A]	Neutrophil-Resting-4 [HG-U133A]
+Neutrophils	blueprint	Neutrophil-Resting-5 [HG-U133A]	Neutrophil-Resting-5 [HG-U133A]
+Neutrophils	Mabbott	Hs.114:Neutrophil:CD16+:	Hs.114:Neutrophil:CD16+:
+Neutrophils	Mabbott	Hs.114:Neutrophil:CD16+:_1	Hs.114:Neutrophil:CD16+:_1
+Neutrophils	Mabbott	Hs.114:Neutrophil:CD16+:_2	Hs.114:Neutrophil:CD16+:_2
+Neutrophils	Mabbott	Hs.39:PB:Neutrophils:cntrl_30min:	Hs.39:PB:Neutrophils:cntrl_30min:
+Neutrophils	Mabbott	Hs.39:PB:Neutrophils:inflam_30min:	Hs.39:PB:Neutrophils:inflam_30min:
+Neutrophils	Mabbott	Hs.39:PB:Neutrophils:inflam+CGS21680_30min:	Hs.39:PB:Neutrophils:inflam+CGS21680_30min:
+Neutrophils	Mabbott	Hs.39:PB:Neutrophils:inflam+PGE2_30min:	Hs.39:PB:Neutrophils:inflam+PGE2_30min:
+Neutrophils	Mabbott	Hs.39:PB:Neutrophils:inflam+RO20-1724+forskolin_30min:	Hs.39:PB:Neutrophils:inflam+RO20-1724+forskolin_30min:
+Neutrophils	Mabbott	Hs.62:PB:Neutrophils:cntrl_1h:r1	Hs.62:PB:Neutrophils:cntrl_1h:r1
+Neutrophils	Mabbott	Hs.62:PB:Neutrophils:cntrl_1h:r2	Hs.62:PB:Neutrophils:cntrl_1h:r2
+Neutrophils	Mabbott	Hs.62:PB:Neutrophils:uropathogenic_E._coli_UTI89_1h:r2	Hs.62:PB:Neutrophils:uropathogenic_E._coli_UTI89_1h:r2
+Neutrophils	Mabbott	Hs.62:PB:Neutrophils:commensal_E._coli_MG1655_1h:r1	Hs.62:PB:Neutrophils:commensal_E._coli_MG1655_1h:r1
+Neutrophils	Mabbott	Hs.62:PB:Neutrophils:commensal_E._coli_MG1655_1h:r2	Hs.62:PB:Neutrophils:commensal_E._coli_MG1655_1h:r2
+Neutrophils	Mabbott	Hs.77:PB:Neutrophils:LPS_16h:r1	Hs.77:PB:Neutrophils:LPS_16h:r1
+Neutrophils	Mabbott	Hs.77:PB:Neutrophils:LPS_16h:r2	Hs.77:PB:Neutrophils:LPS_16h:r2
+Neutrophils	Mabbott	Hs.77:PB:Neutrophils:LPS_16h:r3	Hs.77:PB:Neutrophils:LPS_16h:r3
+Neutrophils	Mabbott	Hs.77:PB:Neutrophils:LPS_16h:r4	Hs.77:PB:Neutrophils:LPS_16h:r4
+Neutrophils	Mabbott	Hs.77:PB:Neutrophils:GM-CSF_IFNg_16h:r1	Hs.77:PB:Neutrophils:GM-CSF_IFNg_16h:r1
+Neutrophils	Mabbott	Hs.77:PB:Neutrophils:GM-CSF_IFNg_16h:r2	Hs.77:PB:Neutrophils:GM-CSF_IFNg_16h:r2
+Neutrophils	Mabbott	Hs.77:PB:Neutrophils:GM-CSF_IFNg_16h:r3	Hs.77:PB:Neutrophils:GM-CSF_IFNg_16h:r3
+Neutrophils	Mabbott	Hs.77:PB:Neutrophils:GM-CSF_IFNg_16h:r4	Hs.77:PB:Neutrophils:GM-CSF_IFNg_16h:r4
+NK cells	Noverstern	Mature NK cell_CD56- CD16+ CD3-	Mature NK cell_CD56- CD16+ CD3-
+NK cells	Noverstern	Mature NK cell_CD56- CD16+ CD3-	Mature NK cell_CD56- CD16+ CD3-
+NK cells	Noverstern	Mature NK cell_CD56- CD16+ CD3-	Mature NK cell_CD56- CD16+ CD3-
+NK cells	Noverstern	Mature NK cell_CD56- CD16+ CD3-	Mature NK cell_CD56- CD16+ CD3-
+NK cells	Noverstern	Mature NK cell_CD56+ CD16+ CD3-	Mature NK cell_CD56+ CD16+ CD3-
+NK cells	Noverstern	Mature NK cell_CD56+ CD16+ CD3-	Mature NK cell_CD56+ CD16+ CD3-
+NK cells	Noverstern	Mature NK cell_CD56+ CD16+ CD3-	Mature NK cell_CD56+ CD16+ CD3-
+NK cells	Noverstern	Mature NK cell_CD56+ CD16+ CD3-	Mature NK cell_CD56+ CD16+ CD3-
+NK cells	Noverstern	Mature NK cell_CD56+ CD16+ CD3-	Mature NK cell_CD56+ CD16+ CD3-
+NK cells	Noverstern	Mature NK cell_CD56- CD16- CD3-	Mature NK cell_CD56- CD16- CD3-
+NK cells	Noverstern	Mature NK cell_CD56- CD16- CD3-	Mature NK cell_CD56- CD16- CD3-
+NK cells	Noverstern	Mature NK cell_CD56- CD16- CD3-	Mature NK cell_CD56- CD16- CD3-
+NK cells	Noverstern	Mature NK cell_CD56- CD16- CD3-	Mature NK cell_CD56- CD16- CD3-
+NK cells	Noverstern	Mature NK cell_CD56- CD16- CD3-	Mature NK cell_CD56- CD16- CD3-
+NK cells	Mabbott	Hs.106:PB:NK_cell:cntrl:	Hs.106:PB:NK_cell:cntrl:
+NK cells	Mabbott	Hs.106:PB:NK_cell:IL2-2h:	Hs.106:PB:NK_cell:IL2-2h:
+NK cells	Mabbott	Hs.106:PB:NK_cell:IL2-8h:	Hs.106:PB:NK_cell:IL2-8h:
+NK cells	Mabbott	Hs.106:PB:NK_cell:IL2-24h:	Hs.106:PB:NK_cell:IL2-24h:
+NK cells	Mabbott	Hs.74:PB:NK_cell:CD56hiCD62L+:r1	Hs.74:PB:NK_cell:CD56hiCD62L+:r1
+NK cells	Mabbott	Hs.74:PB:NK_cell:CD56hiCD62L+:r2	Hs.74:PB:NK_cell:CD56hiCD62L+:r2
+NK cells	Mabbott	Hs.74:PB:NK_cell:CD56hiCD62L+:r3	Hs.74:PB:NK_cell:CD56hiCD62L+:r3
+NK cells	Mabbott	Hs.74:PB:NK_cell:CD56hiCD62L+:r4	Hs.74:PB:NK_cell:CD56hiCD62L+:r4
+NK cells	Mabbott	Hs.74:PB:NK_cell:CD56hiCD62L+:r5	Hs.74:PB:NK_cell:CD56hiCD62L+:r5
+NK cells	Mabbott	Hs.74:PB:NK_cell:CD56hiCD62L+:r6	Hs.74:PB:NK_cell:CD56hiCD62L+:r6
+NK cells	Mabbott	Hs.74:PB:NK_cell:CD56loCD62L-:r1	Hs.74:PB:NK_cell:CD56loCD62L-:r1
+NK cells	Mabbott	Hs.74:PB:NK_cell:CD56loCD62L-:r2	Hs.74:PB:NK_cell:CD56loCD62L-:r2
+NK cells	Mabbott	Hs.74:PB:NK_cell:CD56loCD62L-:r3	Hs.74:PB:NK_cell:CD56loCD62L-:r3
+NKT	Noverstern	NKT	NKT
+NKT	Noverstern	NKT	NKT
+NKT	Noverstern	NKT	NKT
+NKT	Noverstern	NKT	NKT
+Osteoblast	Mabbott	Hs.109:iliac_MSC:Osteoblasts:r1	Hs.109:iliac_MSC:Osteoblasts:r1
+Osteoblast	Mabbott	Hs.109:iliac_MSC:Osteoblasts:r2	Hs.109:iliac_MSC:Osteoblasts:r2
+Osteoblast	Mabbott	Hs.109:iliac_MSC:Osteoblasts:r3	Hs.109:iliac_MSC:Osteoblasts:r3
+Osteoblast	Mabbott	Hs.5:trabecular_bone:Osteoblasts:cntrl_2h:r1	Hs.5:trabecular_bone:Osteoblasts:cntrl_2h:r1
+Osteoblast	Mabbott	Hs.5:trabecular_bone:Osteoblasts:cntrl_2h:r2	Hs.5:trabecular_bone:Osteoblasts:cntrl_2h:r2
+Osteoblast	Mabbott	Hs.5:trabecular_bone:Osteoblasts:cntrl_2h:r3	Hs.5:trabecular_bone:Osteoblasts:cntrl_2h:r3
+Osteoblast	Mabbott	Hs.5:trabecular_bone:Osteoblasts:BMP2_2h:r1	Hs.5:trabecular_bone:Osteoblasts:BMP2_2h:r1
+Osteoblast	Mabbott	Hs.5:trabecular_bone:Osteoblasts:BMP2_2h:r2	Hs.5:trabecular_bone:Osteoblasts:BMP2_2h:r2
+Osteoblast	Mabbott	Hs.5:trabecular_bone:Osteoblasts:BMP2_2h:r3	Hs.5:trabecular_bone:Osteoblasts:BMP2_2h:r3
+Osteoblast	Mabbott	Hs.5:trabecular_bone:Osteoblasts:BMP2_24h:r2	Hs.5:trabecular_bone:Osteoblasts:BMP2_24h:r2
+Osteoblast	Mabbott	Hs.5:trabecular_bone:Osteoblasts:cntrl_24h:r1	Hs.5:trabecular_bone:Osteoblasts:cntrl_24h:r1
+Osteoblast	Mabbott	Hs.5:trabecular_bone:Osteoblasts:cntrl_24h:r2	Hs.5:trabecular_bone:Osteoblasts:cntrl_24h:r2
+Osteoblast	Mabbott	Hs.5:trabecular_bone:Osteoblasts:cntrl_24h:r3	Hs.5:trabecular_bone:Osteoblasts:cntrl_24h:r3
+Osteoblast	Mabbott	Hs.5:trabecular_bone:Osteoblasts:BMP2_24h:r1	Hs.5:trabecular_bone:Osteoblasts:BMP2_24h:r1
+Osteoblast	Mabbott	Hs.5:trabecular_bone:Osteoblasts:BMP2_24h:r3	Hs.5:trabecular_bone:Osteoblasts:BMP2_24h:r3
+pDC	Noverstern	Plasmacytoid Dendritic Cell	Plasmacytoid Dendritic Cell
+pDC	Noverstern	Plasmacytoid Dendritic Cell	Plasmacytoid Dendritic Cell
+pDC	Noverstern	Plasmacytoid Dendritic Cell	Plasmacytoid Dendritic Cell
+pDC	Noverstern	Plasmacytoid Dendritic Cell	Plasmacytoid Dendritic Cell
+pDC	Noverstern	Plasmacytoid Dendritic Cell	Plasmacytoid Dendritic Cell
+pDC	Mabbott	Hs.2:tonsil:DC:plasmacytoid:r1	Hs.2:tonsil:DC:plasmacytoid:r1
+pDC	Mabbott	Hs.2:tonsil:DC:plasmacytoid:r2	Hs.2:tonsil:DC:plasmacytoid:r2
+pDC	Mabbott	Hs.2:tonsil:DC:plasmacytoid:r3	Hs.2:tonsil:DC:plasmacytoid:r3
+pDC	Mabbott	Hs.2:PB:DC:plasmacytoid:r1	Hs.2:PB:DC:plasmacytoid:r1
+pDC	Mabbott	Hs.2:PB:DC:plasmacytoid:r2	Hs.2:PB:DC:plasmacytoid:r2
+pDC	Mabbott	Hs.2:PB:DC:plasmacytoid:r3	Hs.2:PB:DC:plasmacytoid:r3
+Pericytes	Encode	placental pericyte"	placental pericyte
+Plasma cells	Abbas	PlasmaCell-FromPBMC-1 [HG-U133A]	PlasmaCell-FromPBMC-1 [HG-U133A]
+Plasma cells	Abbas	PlasmaCell-FromPBMC-2 [HG-U133A]	PlasmaCell-FromPBMC-2 [HG-U133A]
+Plasma cells	Abbas	PlasmaCell-FromPBMC-3 [HG-U133A]	PlasmaCell-FromPBMC-3 [HG-U133A]
+Plasma cells	Abbas	PlasmaCell-FromBoneMarrow-1 [HG-U133A]	PlasmaCell-FromBoneMarrow-1 [HG-U133A]
+Plasma cells	Abbas	PlasmaCell-FromBoneMarrow-2 [HG-U133A]	PlasmaCell-FromBoneMarrow-2 [HG-U133A]
+Plasma cells	Abbas	PlasmaCell-FromBoneMarrow-3 [HG-U133A]	PlasmaCell-FromBoneMarrow-3 [HG-U133A]
+Plasma cells	Abbas	PlasmaCell-FromBoneMarrow-4 [HG-U133A]	PlasmaCell-FromBoneMarrow-4 [HG-U133A]
+Plasma cells	Mabbott	Hs.25:tonsil:B_cell:Plasma_cell:r30	Hs.25:tonsil:B_cell:Plasma_cell:r30
+Plasma cells	Mabbott	Hs.25:tonsil:B_cell:Plasma_cell:r33	Hs.25:tonsil:B_cell:Plasma_cell:r33
+Plasma cells	Mabbott	Hs.25:tonsil:B_cell:Plasma_cell:r44	Hs.25:tonsil:B_cell:Plasma_cell:r44
+Platelets	Mabbott	Hs.18:Platelets_&_reticulocytes:platelet:r1	Hs.18:Platelets_&_reticulocytes:platelet:r1
+Platelets	Mabbott	Hs.18:Platelets_&_reticulocytes:platelet:r2	Hs.18:Platelets_&_reticulocytes:platelet:r2
+Platelets	Mabbott	Hs.18:Platelets_&_reticulocytes:platelet:r7	Hs.18:Platelets_&_reticulocytes:platelet:r7
+Platelets	Mabbott	Hs.18:Platelets_&_reticulocytes:platelet:r8	Hs.18:Platelets_&_reticulocytes:platelet:r8
+Platelets	Mabbott	Hs.18:Platelets_&_reticulocytes:platelet:r10	Hs.18:Platelets_&_reticulocytes:platelet:r10
+Preadipocytes	Encode	subcutaneous preadipocyte"	subcutaneous preadipocyte
+pro B-cells	Noverstern	Pro B-cell	Pro B-cell
+pro B-cells	Noverstern	Pro B-cell	Pro B-cell
+pro B-cells	Noverstern	Pro B-cell	Pro B-cell
+pro B-cells	Noverstern	Pro B-cell	Pro B-cell
+pro B-cells	Noverstern	Pro B-cell	Pro B-cell
+pro B-cells	Mabbott	Hs.67:BM_&Prog.:Pro-B_cell_CD34+:r1	Hs.67:BM_&Prog.:Pro-B_cell_CD34+:r1
+pro B-cells	Mabbott	Hs.67:BM_&Prog.:Pro-B_cell_CD34+:r2	Hs.67:BM_&Prog.:Pro-B_cell_CD34+:r2
+Skeletal muscle	Blueprint	skeletal muscle satellite cell"	skeletal muscle satellite cell
+Smooth muscle	Mabbott	Hs.15:Smooth_muscle_cells:vascular:cntrl_6h:r1	Hs.15:Smooth_muscle_cells:vascular:cntrl_6h:r1
+Smooth muscle	Mabbott	Hs.15:Smooth_muscle_cells:vascular:IL-17_6h:r1	Hs.15:Smooth_muscle_cells:vascular:IL-17_6h:r1
+Smooth muscle	Mabbott	Hs.15:Smooth_muscle_cells:vascular:cntrl_6h:r2	Hs.15:Smooth_muscle_cells:vascular:cntrl_6h:r2
+Smooth muscle	Mabbott	Hs.15:Smooth_muscle_cells:vascular:IL-17_6h:r2	Hs.15:Smooth_muscle_cells:vascular:IL-17_6h:r2
+Smooth muscle	Mabbott	Hs.15:Smooth_muscle_cells:vascular:cntrl_6h:r3	Hs.15:Smooth_muscle_cells:vascular:cntrl_6h:r3
+Smooth muscle	Mabbott	Hs.15:Smooth_muscle_cells:vascular:IL-17_6h:r3	Hs.15:Smooth_muscle_cells:vascular:IL-17_6h:r3
+Smooth muscle	Mabbott	Hs.33:Smooth_muscle_cells:vascular:cntrl_24h:r1	Hs.33:Smooth_muscle_cells:vascular:cntrl_24h:r1
+Smooth muscle	Mabbott	Hs.33:Smooth_muscle_cells:vascular:cntrl_24h:r2	Hs.33:Smooth_muscle_cells:vascular:cntrl_24h:r2
+Smooth muscle	Mabbott	Hs.68:Smooth_muscle_cells:umbilical_vein:serum_free_48h:r1	Hs.68:Smooth_muscle_cells:umbilical_vein:serum_free_48h:r1
+Smooth muscle	Mabbott	Hs.68:Smooth_muscle_cells:umbilical_vein:serum_free_48h:r2	Hs.68:Smooth_muscle_cells:umbilical_vein:serum_free_48h:r2
+Smooth muscle	Mabbott	Hs.87:Smooth_muscle_cells:bronchial:vit_D_24h:r1	Hs.87:Smooth_muscle_cells:bronchial:vit_D_24h:r1
+Smooth muscle	Mabbott	Hs.87:Smooth_muscle_cells:bronchial:vit_D_24h:r2	Hs.87:Smooth_muscle_cells:bronchial:vit_D_24h:r2
+Smooth muscle	Mabbott	Hs.87:Smooth_muscle_cells:bronchial:vit_D_24h:r3	Hs.87:Smooth_muscle_cells:bronchial:vit_D_24h:r3
+Smooth muscle	Mabbott	Hs.87:Smooth_muscle_cells:bronchial:cntrl_24h:r1	Hs.87:Smooth_muscle_cells:bronchial:cntrl_24h:r1
+Smooth muscle	Mabbott	Hs.87:Smooth_muscle_cells:bronchial:cntrl_24h:r2	Hs.87:Smooth_muscle_cells:bronchial:cntrl_24h:r2
+Smooth muscle	Mabbott	Hs.87:Smooth_muscle_cells:bronchial:cntrl_24h:r3	Hs.87:Smooth_muscle_cells:bronchial:cntrl_24h:r3
+Tgd cells	Mabbott	Hs.37:PB:T_cell:gamma-delta:r1	Hs.37:PB:T_cell:gamma-delta:r1
+Tgd cells	Mabbott	Hs.37:PB:T_cell:gamma-delta:r2	Hs.37:PB:T_cell:gamma-delta:r2
+Th1 cells	Abbas	CD4Tcell-Th1-restimulated12hour-1 [HG-U133A]	CD4Tcell-Th1-restimulated12hour-1 [HG-U133A]
+Th1 cells	Abbas	CD4Tcell-Th1-restimulated12hour-2 [HG-U133A]	CD4Tcell-Th1-restimulated12hour-2 [HG-U133A]
+Th1 cells	Abbas	CD4Tcell-Th1-restimulated48hour-1 [HG-U133A]	CD4Tcell-Th1-restimulated48hour-1 [HG-U133A]
+Th1 cells	Abbas	CD4Tcell-Th1-restimulated48hour-2 [HG-U133A]	CD4Tcell-Th1-restimulated48hour-2 [HG-U133A]
+Th1 cells	Abbas	CD4Tcell-Th1-restimulated48hour-3 [HG-U133A]	CD4Tcell-Th1-restimulated48hour-3 [HG-U133A]
+Th2 cells	Abbas	CD4Tcell-Th2-restimulated12hour-1 [HG-U133A]	CD4Tcell-Th2-restimulated12hour-1 [HG-U133A]
+Th2 cells	Abbas	CD4Tcell-Th2-restimulated12hour-2 [HG-U133A]	CD4Tcell-Th2-restimulated12hour-2 [HG-U133A]
+Th2 cells	Abbas	CD4Tcell-Th2-restimulated12hour-3 [HG-U133A]	CD4Tcell-Th2-restimulated12hour-3 [HG-U133A]
+Th2 cells	Abbas	CD4Tcell-Th2-restimulated48hour-1 [HG-U133A]	CD4Tcell-Th2-restimulated48hour-1 [HG-U133A]
+Th2 cells	Abbas	CD4Tcell-Th2-restimulated48hour-2 [HG-U133A]	CD4Tcell-Th2-restimulated48hour-2 [HG-U133A]
+Th2 cells	Abbas	CD4Tcell-Th2-restimulated48hour-3 [HG-U133A]	CD4Tcell-Th2-restimulated48hour-3 [HG-U133A]
+Tregs	Mabbott	Hs.76:PB:T_cell:Treg:na?ve:r1	Hs.76:PB:T_cell:Treg:na?ve:r1
+Tregs	Mabbott	Hs.76:PB:T_cell:Treg:na?ve:r2	Hs.76:PB:T_cell:Treg:na?ve:r2
+Adipocytes	Fantom5	tpm.Adipocyte%20-%20breast%2c%20donor1.CNhs11051.11376-118A8	tpm.Adipocyte%20-%20breast%2c%20donor1.CNhs11051.11376-118A8
+Adipocytes	Fantom5	tpm.Adipocyte%20-%20breast%2c%20donor2.CNhs11969.11327-117E4	tpm.Adipocyte%20-%20breast%2c%20donor2.CNhs11969.11327-117E4
+Adipocytes	Fantom5	tpm.Adipocyte%20-%20omental%2c%20donor1.CNhs11054.11473-119C6	tpm.Adipocyte%20-%20omental%2c%20donor1.CNhs11054.11473-119C6
+Adipocytes	Fantom5	tpm.Adipocyte%20-%20omental%2c%20donor2.CNhs12067.11474-119C7	tpm.Adipocyte%20-%20omental%2c%20donor2.CNhs12067.11474-119C7
+Adipocytes	Fantom5	tpm.Adipocyte%20-%20omental%2c%20donor3.CNhs12068.11475-119C8	tpm.Adipocyte%20-%20omental%2c%20donor3.CNhs12068.11475-119C8
+Adipocytes	Fantom5	tpm.Adipocyte%20-%20perirenal%2c%20donor1.CNhs12069.11476-119C9	tpm.Adipocyte%20-%20perirenal%2c%20donor1.CNhs12069.11476-119C9
+Adipocytes	Fantom5	tpm.Adipocyte%20-%20subcutaneous%2c%20donor1.CNhs12494.11259-116F8	tpm.Adipocyte%20-%20subcutaneous%2c%20donor1.CNhs12494.11259-116F8
+Adipocytes	Fantom5	tpm.Adipocyte%20-%20subcutaneous%2c%20donor2.CNhs11371.11336-117F4	tpm.Adipocyte%20-%20subcutaneous%2c%20donor2.CNhs11371.11336-117F4
+Adipocytes	Fantom5	tpm.Adipocyte%20-%20subcutaneous%2c%20donor3.CNhs12017.11408-118E4	tpm.Adipocyte%20-%20subcutaneous%2c%20donor3.CNhs12017.11408-118E4
+astrocytes	Fantom5	tpm.Astrocyte%20-%20cerebellum%2c%20donor1.CNhs11321.11500-119F6	tpm.Astrocyte%20-%20cerebellum%2c%20donor1.CNhs11321.11500-119F6
+astrocytes	Fantom5	tpm.Astrocyte%20-%20cerebellum%2c%20donor2.CNhs12081.11580-120F5	tpm.Astrocyte%20-%20cerebellum%2c%20donor2.CNhs12081.11580-120F5
+astrocytes	Fantom5	tpm.Astrocyte%20-%20cerebellum%2c%20donor3.CNhs12117.11661-122F5	tpm.Astrocyte%20-%20cerebellum%2c%20donor3.CNhs12117.11661-122F5
+astrocytes	Fantom5	tpm.Astrocyte%20-%20cerebral%20cortex%2c%20donor1.CNhs10864.11235-116D2	tpm.Astrocyte%20-%20cerebral%20cortex%2c%20donor1.CNhs10864.11235-116D2
+astrocytes	Fantom5	tpm.Astrocyte%20-%20cerebral%20cortex%2c%20donor2.CNhs11960.11316-117D2	tpm.Astrocyte%20-%20cerebral%20cortex%2c%20donor2.CNhs11960.11316-117D2
+astrocytes	Fantom5	tpm.Astrocyte%20-%20cerebral%20cortex%2c%20donor3.CNhs12005.11392-118C6	tpm.Astrocyte%20-%20cerebral%20cortex%2c%20donor3.CNhs12005.11392-118C6
+b-cell	Fantom5	tpm.CD19%2b%20B%20Cells%2c%20donor1.CNhs12343.11544-120B5	tpm.CD19%2b%20B%20Cells%2c%20donor1.CNhs12343.11544-120B5
+b-cell	Fantom5	tpm.CD19%2b%20B%20Cells%2c%20donor2.CNhs12352.11624-122B4	tpm.CD19%2b%20B%20Cells%2c%20donor2.CNhs12352.11624-122B4
+b-cell	Fantom5	tpm.CD19%2b%20B%20Cells%2c%20donor3.CNhs12354.11705-123B4	tpm.CD19%2b%20B%20Cells%2c%20donor3.CNhs12354.11705-123B4
+Basophils	Fantom5	tpm.Basophils%2c%20donor1.CNhs12546.12241-129G9	tpm.Basophils%2c%20donor1.CNhs12546.12241-129G9
+Basophils	Fantom5	tpm.Basophils%2c%20donor2.CNhs12563.12242-129H1	tpm.Basophils%2c%20donor2.CNhs12563.12242-129H1
+Basophils	Fantom5	tpm.Basophils%2c%20donor3.CNhs12575.12243-129H2	tpm.Basophils%2c%20donor3.CNhs12575.12243-129H2
+CD4+ memory T-cells	Fantom5	tpm.CD4%2bCD25-CD45RA-%20memory%20conventional%20T%20cells%2c%20donor1.CNhs13239.11786-124B4	tpm.CD4%2bCD25-CD45RA-%20memory%20conventional%20T%20cells%2c%20donor1.CNhs13239.11786-124B4
+CD4+ memory T-cells	Fantom5	tpm.CD4%2bCD25-CD45RA-%20memory%20conventional%20T%20cells%2c%20donor2.CNhs13237.11798-124C7	tpm.CD4%2bCD25-CD45RA-%20memory%20conventional%20T%20cells%2c%20donor2.CNhs13237.11798-124C7
+CD4+ memory T-cells	Fantom5	tpm.CD4%2bCD25-CD45RA-%20memory%20conventional%20T%20cells%2c%20donor3.CNhs13539.11909-125G1	tpm.CD4%2bCD25-CD45RA-%20memory%20conventional%20T%20cells%2c%20donor3.CNhs13539.11909-125G1
+CD4+ naive T-cells	Fantom5	tpm.CD4%2bCD25-CD45RA%2b%20naive%20conventional%20T%20cells%2c%20donor1.CNhs13223.11784-124B2	tpm.CD4%2bCD25-CD45RA%2b%20naive%20conventional%20T%20cells%2c%20donor1.CNhs13223.11784-124B2
+CD4+ naive T-cells	Fantom5	tpm.CD4%2bCD25-CD45RA%2b%20naive%20conventional%20T%20cells%2c%20donor2.CNhs13205.11795-124C4	tpm.CD4%2bCD25-CD45RA%2b%20naive%20conventional%20T%20cells%2c%20donor2.CNhs13205.11795-124C4
+CD4+ naive T-cells	Fantom5	tpm.CD4%2bCD25-CD45RA%2b%20naive%20conventional%20T%20cells%2c%20donor3.CNhs13512.11906-125F7	tpm.CD4%2bCD25-CD45RA%2b%20naive%20conventional%20T%20cells%2c%20donor3.CNhs13512.11906-125F7
+CD4+ T-cells	Fantom5	tpm.CD4%2b%20T%20Cells%2c%20donor1.CNhs10853.11225-116C1	tpm.CD4%2b%20T%20Cells%2c%20donor1.CNhs10853.11225-116C1
+CD4+ T-cells	Fantom5	tpm.CD4%2b%20T%20Cells%2c%20donor2.CNhs11955.11306-117C1	tpm.CD4%2b%20T%20Cells%2c%20donor2.CNhs11955.11306-117C1
+CD4+ T-cells	Fantom5	tpm.CD4%2b%20T%20Cells%2c%20donor3.CNhs11998.11382-118B5	tpm.CD4%2b%20T%20Cells%2c%20donor3.CNhs11998.11382-118B5
+CD8+ T-cells	Fantom5	tpm.CD8%2b%20T%20Cells%2c%20donor1.CNhs10854.11226-116C2	tpm.CD8%2b%20T%20Cells%2c%20donor1.CNhs10854.11226-116C2
+CD8+ T-cells	Fantom5	tpm.CD8%2b%20T%20Cells%2c%20donor2.CNhs11956.11307-117C2	tpm.CD8%2b%20T%20Cells%2c%20donor2.CNhs11956.11307-117C2
+CD8+ T-cells	Fantom5	tpm.CD8%2b%20T%20Cells%2c%20donor3.CNhs11999.11383-118B6	tpm.CD8%2b%20T%20Cells%2c%20donor3.CNhs11999.11383-118B6
+Endothelial cells	Fantom5	tpm.Endothelial%20Cells%20-%20Aortic%2c%20donor0.CNhs10837.11207-116A1	tpm.Endothelial%20Cells%20-%20Aortic%2c%20donor0.CNhs10837.11207-116A1
+Endothelial cells	Fantom5	tpm.Endothelial%20Cells%20-%20Aortic%2c%20donor1.CNhs12495.11263-116G3	tpm.Endothelial%20Cells%20-%20Aortic%2c%20donor1.CNhs12495.11263-116G3
+Endothelial cells	Fantom5	tpm.Endothelial%20Cells%20-%20Aortic%2c%20donor2.CNhs11375.11340-117F8	tpm.Endothelial%20Cells%20-%20Aortic%2c%20donor2.CNhs11375.11340-117F8
+Endothelial cells	Fantom5	tpm.Endothelial%20Cells%20-%20Aortic%2c%20donor3.CNhs12022.11412-118E8	tpm.Endothelial%20Cells%20-%20Aortic%2c%20donor3.CNhs12022.11412-118E8
+Endothelial cells	Fantom5	tpm.Endothelial%20Cells%20-%20Artery%2c%20donor1.CNhs12496.11264-116G4	tpm.Endothelial%20Cells%20-%20Artery%2c%20donor1.CNhs12496.11264-116G4
+Endothelial cells	Fantom5	tpm.Endothelial%20Cells%20-%20Artery%2c%20donor2.CNhs11977.11341-117F9	tpm.Endothelial%20Cells%20-%20Artery%2c%20donor2.CNhs11977.11341-117F9
+Endothelial cells	Fantom5	tpm.Endothelial%20Cells%20-%20Artery%2c%20donor3.CNhs12023.11413-118E9	tpm.Endothelial%20Cells%20-%20Artery%2c%20donor3.CNhs12023.11413-118E9
+Endothelial cells	Fantom5	tpm.Endothelial%20Cells%20-%20Microvascular%2c%20donor1.CNhs11925.11265-116G5	tpm.Endothelial%20Cells%20-%20Microvascular%2c%20donor1.CNhs11925.11265-116G5
+Endothelial cells	Fantom5	tpm.Endothelial%20Cells%20-%20Microvascular%2c%20donor2.CNhs11376.11342-117G1	tpm.Endothelial%20Cells%20-%20Microvascular%2c%20donor2.CNhs11376.11342-117G1
+Endothelial cells	Fantom5	tpm.Endothelial%20Cells%20-%20Microvascular%2c%20donor3.CNhs12024.11414-118F1	tpm.Endothelial%20Cells%20-%20Microvascular%2c%20donor3.CNhs12024.11414-118F1
+Endothelial cells	Fantom5	tpm.Endothelial%20Cells%20-%20Thoracic%2c%20donor1.CNhs11926.11266-116G6	tpm.Endothelial%20Cells%20-%20Thoracic%2c%20donor1.CNhs11926.11266-116G6
+Endothelial cells	Fantom5	tpm.Endothelial%20Cells%20-%20Thoracic%2c%20donor2.CNhs11978.11343-117G2	tpm.Endothelial%20Cells%20-%20Thoracic%2c%20donor2.CNhs11978.11343-117G2
+Endothelial cells	Fantom5	tpm.Endothelial%20Cells%20-%20Umbilical%20vein%2c%20donor1.CNhs10872.11243-116E1	tpm.Endothelial%20Cells%20-%20Umbilical%20vein%2c%20donor1.CNhs10872.11243-116E1
+Endothelial cells	Fantom5	tpm.Endothelial%20Cells%20-%20Umbilical%20vein%2c%20donor2.CNhs11967.11324-117E1	tpm.Endothelial%20Cells%20-%20Umbilical%20vein%2c%20donor2.CNhs11967.11324-117E1
+Endothelial cells	Fantom5	tpm.Endothelial%20Cells%20-%20Umbilical%20vein%2c%20donor3.CNhs12010.11400-118D5	tpm.Endothelial%20Cells%20-%20Umbilical%20vein%2c%20donor3.CNhs12010.11400-118D5
+Endothelial cells	Fantom5	tpm.Endothelial%20Cells%20-%20Vein%2c%20donor1.CNhs12497.11267-116G7	tpm.Endothelial%20Cells%20-%20Vein%2c%20donor1.CNhs12497.11267-116G7
+Endothelial cells	Fantom5	tpm.Endothelial%20Cells%20-%20Vein%2c%20donor2.CNhs11377.11344-117G3	tpm.Endothelial%20Cells%20-%20Vein%2c%20donor2.CNhs11377.11344-117G3
+Endothelial cells	Fantom5	tpm.Endothelial%20Cells%20-%20Vein%2c%20donor3.CNhs12026.11416-118F3	tpm.Endothelial%20Cells%20-%20Vein%2c%20donor3.CNhs12026.11416-118F3
+Endothelial cells	Fantom5	tpm.Hepatic%20Sinusoidal%20Endothelial%20Cells%2c%20donor1.CNhs12075.11521-119H9	tpm.Hepatic%20Sinusoidal%20Endothelial%20Cells%2c%20donor1.CNhs12075.11521-119H9
+Endothelial cells	Fantom5	tpm.Hepatic%20Sinusoidal%20Endothelial%20Cells%2c%20donor2.CNhs12092.11601-120H8	tpm.Hepatic%20Sinusoidal%20Endothelial%20Cells%2c%20donor2.CNhs12092.11601-120H8
+Endothelial cells	Fantom5	tpm.Hepatic%20Sinusoidal%20Endothelial%20Cells%2c%20donor3.CNhs12625.11682-122H8	tpm.Hepatic%20Sinusoidal%20Endothelial%20Cells%2c%20donor3.CNhs12625.11682-122H8
+Endothelial cells	Fantom5	tpm.Renal%20Glomerular%20Endothelial%20Cells%2c%20donor1.CNhs12074.11514-119H2	tpm.Renal%20Glomerular%20Endothelial%20Cells%2c%20donor1.CNhs12074.11514-119H2
+Endothelial cells	Fantom5	tpm.Renal%20Glomerular%20Endothelial%20Cells%2c%20donor2.CNhs12086.11594-120H1	tpm.Renal%20Glomerular%20Endothelial%20Cells%2c%20donor2.CNhs12086.11594-120H1
+Endothelial cells	Fantom5	tpm.Renal%20Glomerular%20Endothelial%20Cells%2c%20donor3.CNhs12624.11675-122H1	tpm.Renal%20Glomerular%20Endothelial%20Cells%2c%20donor3.CNhs12624.11675-122H1
+Endothelial cells	Fantom5	tpm.Renal%20Glomerular%20Endothelial%20Cells%2c%20donor4.CNhs13080.11783-124B1	tpm.Renal%20Glomerular%20Endothelial%20Cells%2c%20donor4.CNhs13080.11783-124B1
+Eosinophils	Fantom5	tpm.Eosinophils%2c%20donor1.CNhs12547.12244-129H3	tpm.Eosinophils%2c%20donor1.CNhs12547.12244-129H3
+Eosinophils	Fantom5	tpm.Eosinophils%2c%20donor2.CNhs12548.12245-129H4	tpm.Eosinophils%2c%20donor2.CNhs12548.12245-129H4
+Eosinophils	Fantom5	tpm.Eosinophils%2c%20donor3.CNhs12549.12246-129H5	tpm.Eosinophils%2c%20donor3.CNhs12549.12246-129H5
+Epithelial cells	Fantom5	tpm.Alveolar%20Epithelial%20Cells%2c%20donor1.CNhs11325.11510-119G7	tpm.Alveolar%20Epithelial%20Cells%2c%20donor1.CNhs11325.11510-119G7
+Epithelial cells	Fantom5	tpm.Alveolar%20Epithelial%20Cells%2c%20donor2.CNhs12084.11590-120G6	tpm.Alveolar%20Epithelial%20Cells%2c%20donor2.CNhs12084.11590-120G6
+Epithelial cells	Fantom5	tpm.Alveolar%20Epithelial%20Cells%2c%20donor3.CNhs12119.11671-122G6	tpm.Alveolar%20Epithelial%20Cells%2c%20donor3.CNhs12119.11671-122G6
+Epithelial cells	Fantom5	tpm.Amniotic%20Epithelial%20Cells%2c%20donor1.CNhs11341.11533-120A3	tpm.Amniotic%20Epithelial%20Cells%2c%20donor1.CNhs11341.11533-120A3
+Epithelial cells	Fantom5	tpm.Amniotic%20Epithelial%20Cells%2c%20donor2.CNhs12098.11613-122A2	tpm.Amniotic%20Epithelial%20Cells%2c%20donor2.CNhs12098.11613-122A2
+Epithelial cells	Fantom5	tpm.Amniotic%20Epithelial%20Cells%2c%20donor3.CNhs12125.11694-123A2	tpm.Amniotic%20Epithelial%20Cells%2c%20donor3.CNhs12125.11694-123A2
+Epithelial cells	Fantom5	tpm.Bronchial%20Epithelial%20Cell%2c%20donor1.CNhs11327.11511-119G8	tpm.Bronchial%20Epithelial%20Cell%2c%20donor1.CNhs11327.11511-119G8
+Epithelial cells	Fantom5	tpm.Bronchial%20Epithelial%20Cell%2c%20donor2.CNhs12085.11591-120G7	tpm.Bronchial%20Epithelial%20Cell%2c%20donor2.CNhs12085.11591-120G7
+Epithelial cells	Fantom5	tpm.Bronchial%20Epithelial%20Cell%2c%20donor3.CNhs12623.11672-122G7	tpm.Bronchial%20Epithelial%20Cell%2c%20donor3.CNhs12623.11672-122G7
+Epithelial cells	Fantom5	tpm.Bronchial%20Epithelial%20Cell%2c%20donor4.CNhs12054.11453-119A4	tpm.Bronchial%20Epithelial%20Cell%2c%20donor4.CNhs12054.11453-119A4
+Epithelial cells	Fantom5	tpm.Bronchial%20Epithelial%20Cell%2c%20donor5.CNhs12058.11457-119A8	tpm.Bronchial%20Epithelial%20Cell%2c%20donor5.CNhs12058.11457-119A8
+Epithelial cells	Fantom5	tpm.Bronchial%20Epithelial%20Cell%2c%20donor6.CNhs12062.11461-119B3	tpm.Bronchial%20Epithelial%20Cell%2c%20donor6.CNhs12062.11461-119B3
+Epithelial cells	Fantom5	tpm.Bronchial%20Epithelial%20Cell%2c%20donor7.CNhs12642.11769-123I5	tpm.Bronchial%20Epithelial%20Cell%2c%20donor7.CNhs12642.11769-123I5
+Epithelial cells	Fantom5	tpm.Ciliary%20Epithelial%20Cells%2c%20donor1.CNhs10871.11242-116D9	tpm.Ciliary%20Epithelial%20Cells%2c%20donor1.CNhs10871.11242-116D9
+Epithelial cells	Fantom5	tpm.Ciliary%20Epithelial%20Cells%2c%20donor2.CNhs11966.11323-117D9	tpm.Ciliary%20Epithelial%20Cells%2c%20donor2.CNhs11966.11323-117D9
+Epithelial cells	Fantom5	tpm.Ciliary%20Epithelial%20Cells%2c%20donor3.CNhs12009.11399-118D4	tpm.Ciliary%20Epithelial%20Cells%2c%20donor3.CNhs12009.11399-118D4
+Epithelial cells	Fantom5	tpm.Corneal%20Epithelial%20Cells%2c%20donor1.CNhs11336.11526-119I5	tpm.Corneal%20Epithelial%20Cells%2c%20donor1.CNhs11336.11526-119I5
+Epithelial cells	Fantom5	tpm.Corneal%20Epithelial%20Cells%2c%20donor2.CNhs12094.11606-120I4	tpm.Corneal%20Epithelial%20Cells%2c%20donor2.CNhs12094.11606-120I4
+Epithelial cells	Fantom5	tpm.Corneal%20Epithelial%20Cells%2c%20donor3.CNhs12123.11687-122I4	tpm.Corneal%20Epithelial%20Cells%2c%20donor3.CNhs12123.11687-122I4
+Epithelial cells	Fantom5	tpm.Esophageal%20Epithelial%20Cells%2c%20donor1.CNhs11323.11507-119G4	tpm.Esophageal%20Epithelial%20Cells%2c%20donor1.CNhs11323.11507-119G4
+Epithelial cells	Fantom5	tpm.Esophageal%20Epithelial%20Cells%2c%20donor2.CNhs12083.11587-120G3	tpm.Esophageal%20Epithelial%20Cells%2c%20donor2.CNhs12083.11587-120G3
+Epithelial cells	Fantom5	tpm.Esophageal%20Epithelial%20Cells%2c%20donor3.CNhs12622.11668-122G3	tpm.Esophageal%20Epithelial%20Cells%2c%20donor3.CNhs12622.11668-122G3
+Epithelial cells	Fantom5	tpm.Iris%20Pigment%20Epithelial%20Cells%2c%20donor1.CNhs12596.11530-119I9	tpm.Iris%20Pigment%20Epithelial%20Cells%2c%20donor1.CNhs12596.11530-119I9
+Epithelial cells	Fantom5	tpm.Lens%20Epithelial%20Cells%2c%20donor1.CNhs12342.11529-119I8	tpm.Lens%20Epithelial%20Cells%2c%20donor1.CNhs12342.11529-119I8
+Epithelial cells	Fantom5	tpm.Lens%20Epithelial%20Cells%2c%20donor2.CNhs12568.11609-120I7	tpm.Lens%20Epithelial%20Cells%2c%20donor2.CNhs12568.11609-120I7
+Epithelial cells	Fantom5	tpm.Lens%20Epithelial%20Cells%2c%20donor3.CNhs12572.11690-122I7	tpm.Lens%20Epithelial%20Cells%2c%20donor3.CNhs12572.11690-122I7
+Epithelial cells	Fantom5	tpm.Mammary%20Epithelial%20Cell%2c%20donor1.CNhs11077.11273-116H4	tpm.Mammary%20Epithelial%20Cell%2c%20donor1.CNhs11077.11273-116H4
+Epithelial cells	Fantom5	tpm.Mammary%20Epithelial%20Cell%2c%20donor2.CNhs11382.11350-117G9	tpm.Mammary%20Epithelial%20Cell%2c%20donor2.CNhs11382.11350-117G9
+Epithelial cells	Fantom5	tpm.Mammary%20Epithelial%20Cell%2c%20donor3.CNhs12032.11422-118F9	tpm.Mammary%20Epithelial%20Cell%2c%20donor3.CNhs12032.11422-118F9
+Epithelial cells	Fantom5	tpm.Placental%20Epithelial%20Cells%2c%20donor1.CNhs11079.11278-116H9	tpm.Placental%20Epithelial%20Cells%2c%20donor1.CNhs11079.11278-116H9
+Epithelial cells	Fantom5	tpm.Placental%20Epithelial%20Cells%2c%20donor2.CNhs11386.11355-117H5	tpm.Placental%20Epithelial%20Cells%2c%20donor2.CNhs11386.11355-117H5
+Epithelial cells	Fantom5	tpm.Placental%20Epithelial%20Cells%2c%20donor3.CNhs12037.11427-118G5	tpm.Placental%20Epithelial%20Cells%2c%20donor3.CNhs12037.11427-118G5
+Epithelial cells	Fantom5	tpm.Prostate%20Epithelial%20Cells%20%28polarized%29%2c%20donor1.CNhs10882.11253-116F2	tpm.Prostate%20Epithelial%20Cells%20%28polarized%29%2c%20donor1.CNhs10882.11253-116F2
+Epithelial cells	Fantom5	tpm.Prostate%20Epithelial%20Cells%2c%20donor2.CNhs11972.11331-117E8	tpm.Prostate%20Epithelial%20Cells%2c%20donor2.CNhs11972.11331-117E8
+Epithelial cells	Fantom5	tpm.Prostate%20Epithelial%20Cells%2c%20donor3.CNhs12014.11404-118D9	tpm.Prostate%20Epithelial%20Cells%2c%20donor3.CNhs12014.11404-118D9
+Epithelial cells	Fantom5	tpm.Renal%20Cortical%20Epithelial%20Cells%2c%20donor1.CNhs11331.11516-119H4	tpm.Renal%20Cortical%20Epithelial%20Cells%2c%20donor1.CNhs11331.11516-119H4
+Epithelial cells	Fantom5	tpm.Renal%20Cortical%20Epithelial%20Cells%2c%20donor2.CNhs12728.11596-120H3	tpm.Renal%20Cortical%20Epithelial%20Cells%2c%20donor2.CNhs12728.11596-120H3
+Epithelial cells	Fantom5	tpm.Renal%20Epithelial%20Cells%2c%20donor1.CNhs11332.11517-119H5	tpm.Renal%20Epithelial%20Cells%2c%20donor1.CNhs11332.11517-119H5
+Epithelial cells	Fantom5	tpm.Renal%20Epithelial%20Cells%2c%20donor2.CNhs12088.11597-120H4	tpm.Renal%20Epithelial%20Cells%2c%20donor2.CNhs12088.11597-120H4
+Epithelial cells	Fantom5	tpm.Renal%20Epithelial%20Cells%2c%20donor3.CNhs12732.11678-122H4	tpm.Renal%20Epithelial%20Cells%2c%20donor3.CNhs12732.11678-122H4
+Epithelial cells	Fantom5	tpm.Renal%20Proximal%20Tubular%20Epithelial%20Cell%2c%20donor1.CNhs11330.11515-119H3	tpm.Renal%20Proximal%20Tubular%20Epithelial%20Cell%2c%20donor1.CNhs11330.11515-119H3
+Epithelial cells	Fantom5	tpm.Renal%20Proximal%20Tubular%20Epithelial%20Cell%2c%20donor2.CNhs12087.11595-120H2	tpm.Renal%20Proximal%20Tubular%20Epithelial%20Cell%2c%20donor2.CNhs12087.11595-120H2
+Epithelial cells	Fantom5	tpm.Renal%20Proximal%20Tubular%20Epithelial%20Cell%2c%20donor3.CNhs12120.11676-122H2	tpm.Renal%20Proximal%20Tubular%20Epithelial%20Cell%2c%20donor3.CNhs12120.11676-122H2
+Epithelial cells	Fantom5	tpm.Retinal%20Pigment%20Epithelial%20Cells%2c%20donor0.CNhs10842.11215-116A9	tpm.Retinal%20Pigment%20Epithelial%20Cells%2c%20donor0.CNhs10842.11215-116A9
+Epithelial cells	Fantom5	tpm.Retinal%20Pigment%20Epithelial%20Cells%2c%20donor1.CNhs11338.11528-119I7	tpm.Retinal%20Pigment%20Epithelial%20Cells%2c%20donor1.CNhs11338.11528-119I7
+Epithelial cells	Fantom5	tpm.Retinal%20Pigment%20Epithelial%20Cells%2c%20donor2.CNhs12096.11608-120I6	tpm.Retinal%20Pigment%20Epithelial%20Cells%2c%20donor2.CNhs12096.11608-120I6
+Epithelial cells	Fantom5	tpm.Retinal%20Pigment%20Epithelial%20Cells%2c%20donor3.CNhs12733.11689-122I6	tpm.Retinal%20Pigment%20Epithelial%20Cells%2c%20donor3.CNhs12733.11689-122I6
+Epithelial cells	Fantom5	tpm.Small%20Airway%20Epithelial%20Cells%20donor2%20%28cytoplasmic%20fraction%29.CNhs14564.14334-155F5	tpm.Small%20Airway%20Epithelial%20Cells%20donor2%20%28cytoplasmic%20fraction%29.CNhs14564.14334-155F5
+Epithelial cells	Fantom5	tpm.Small%20Airway%20Epithelial%20Cells%20donor2%20%28nuclear%20fraction%29.CNhs14565.14335-155F6	tpm.Small%20Airway%20Epithelial%20Cells%20donor2%20%28nuclear%20fraction%29.CNhs14565.14335-155F6
+Epithelial cells	Fantom5	tpm.Small%20Airway%20Epithelial%20Cells%20donor3%20%28cytoplasmic%20fraction%29.CNhs14563.14316-155D5	tpm.Small%20Airway%20Epithelial%20Cells%20donor3%20%28cytoplasmic%20fraction%29.CNhs14563.14316-155D5
+Epithelial cells	Fantom5	tpm.Small%20Airway%20Epithelial%20Cells%2c%20donor1.CNhs10884.11256-116F5	tpm.Small%20Airway%20Epithelial%20Cells%2c%20donor1.CNhs10884.11256-116F5
+Epithelial cells	Fantom5	tpm.Small%20Airway%20Epithelial%20Cells%2c%20donor2.CNhs11975.11334-117F2	tpm.Small%20Airway%20Epithelial%20Cells%2c%20donor2.CNhs11975.11334-117F2
+Epithelial cells	Fantom5	tpm.Small%20Airway%20Epithelial%20Cells%2c%20donor3%20%28nuclear%20fraction%29.CNhs12583.14317-155D6	tpm.Small%20Airway%20Epithelial%20Cells%2c%20donor3%20%28nuclear%20fraction%29.CNhs12583.14317-155D6
+Epithelial cells	Fantom5	tpm.Small%20Airway%20Epithelial%20Cells%2c%20donor3.CNhs12016.11406-118E2	tpm.Small%20Airway%20Epithelial%20Cells%2c%20donor3.CNhs12016.11406-118E2
+Epithelial cells	Fantom5	tpm.Tracheal%20Epithelial%20Cells%2c%20donor1.CNhs11092.11292-117A5	tpm.Tracheal%20Epithelial%20Cells%2c%20donor1.CNhs11092.11292-117A5
+Epithelial cells	Fantom5	tpm.Tracheal%20Epithelial%20Cells%2c%20donor2.CNhs11993.11369-118A1	tpm.Tracheal%20Epithelial%20Cells%2c%20donor2.CNhs11993.11369-118A1
+Epithelial cells	Fantom5	tpm.Tracheal%20Epithelial%20Cells%2c%20donor3.CNhs12051.11441-118I1	tpm.Tracheal%20Epithelial%20Cells%2c%20donor3.CNhs12051.11441-118I1
+Fibroblasts	Fantom5	tpm.Fibroblast%20-%20Aortic%20Adventitial%20donor2%20%28cytoplasmic%20fraction%29.CNhs14558.14331-155F2	tpm.Fibroblast%20-%20Aortic%20Adventitial%20donor2%20%28cytoplasmic%20fraction%29.CNhs14558.14331-155F2
+Fibroblasts	Fantom5	tpm.Fibroblast%20-%20Aortic%20Adventitial%20donor3%20%28cytoplasmic%20fraction%29.CNhs14559.14310-155C8	tpm.Fibroblast%20-%20Aortic%20Adventitial%20donor3%20%28cytoplasmic%20fraction%29.CNhs14559.14310-155C8
+Fibroblasts	Fantom5	tpm.Fibroblast%20-%20Aortic%20Adventitial%2c%20donor1.CNhs10874.11245-116E3	tpm.Fibroblast%20-%20Aortic%20Adventitial%2c%20donor1.CNhs10874.11245-116E3
+Fibroblasts	Fantom5	tpm.Fibroblast%20-%20Aortic%20Adventitial%2c%20donor2%20%28nuclear%20fraction%29.CNhs12581.14332-155F3	tpm.Fibroblast%20-%20Aortic%20Adventitial%2c%20donor2%20%28nuclear%20fraction%29.CNhs12581.14332-155F3
+Fibroblasts	Fantom5	tpm.Fibroblast%20-%20Aortic%20Adventitial%2c%20donor2.CNhs11968.11326-117E3	tpm.Fibroblast%20-%20Aortic%20Adventitial%2c%20donor2.CNhs11968.11326-117E3
+Fibroblasts	Fantom5	tpm.Fibroblast%20-%20Aortic%20Adventitial%2c%20donor3%20%28nuclear%20fraction%29.CNhs12400.14311-155C9	tpm.Fibroblast%20-%20Aortic%20Adventitial%2c%20donor3%20%28nuclear%20fraction%29.CNhs12400.14311-155C9
+Fibroblasts	Fantom5	tpm.Fibroblast%20-%20Aortic%20Adventitial%2c%20donor3.CNhs12011.11401-118D6	tpm.Fibroblast%20-%20Aortic%20Adventitial%2c%20donor3.CNhs12011.11401-118D6
+Fibroblasts	Fantom5	tpm.Fibroblast%20-%20Cardiac%2c%20donor1.CNhs12498.11268-116G8	tpm.Fibroblast%20-%20Cardiac%2c%20donor1.CNhs12498.11268-116G8
+Fibroblasts	Fantom5	tpm.Fibroblast%20-%20Cardiac%2c%20donor2.CNhs11378.11345-117G4	tpm.Fibroblast%20-%20Cardiac%2c%20donor2.CNhs11378.11345-117G4
+Fibroblasts	Fantom5	tpm.Fibroblast%20-%20Cardiac%2c%20donor3.CNhs12027.11417-118F4	tpm.Fibroblast%20-%20Cardiac%2c%20donor3.CNhs12027.11417-118F4
+Fibroblasts	Fantom5	tpm.Fibroblast%20-%20Cardiac%2c%20donor4.CNhs11909.11452-119A3	tpm.Fibroblast%20-%20Cardiac%2c%20donor4.CNhs11909.11452-119A3
+Fibroblasts	Fantom5	tpm.Fibroblast%20-%20Cardiac%2c%20donor5.CNhs12057.11456-119A7	tpm.Fibroblast%20-%20Cardiac%2c%20donor5.CNhs12057.11456-119A7
+Fibroblasts	Fantom5	tpm.Fibroblast%20-%20Cardiac%2c%20donor6.CNhs12061.11460-119B2	tpm.Fibroblast%20-%20Cardiac%2c%20donor6.CNhs12061.11460-119B2
+Fibroblasts	Fantom5	tpm.Fibroblast%20-%20Choroid%20Plexus%2c%20donor1.CNhs11319.11492-119E7	tpm.Fibroblast%20-%20Choroid%20Plexus%2c%20donor1.CNhs11319.11492-119E7
+Fibroblasts	Fantom5	tpm.Fibroblast%20-%20Choroid%20Plexus%2c%20donor2.CNhs12344.11572-120E6	tpm.Fibroblast%20-%20Choroid%20Plexus%2c%20donor2.CNhs12344.11572-120E6
+Fibroblasts	Fantom5	tpm.Fibroblast%20-%20Choroid%20Plexus%2c%20donor3.CNhs12620.11653-122E6	tpm.Fibroblast%20-%20Choroid%20Plexus%2c%20donor3.CNhs12620.11653-122E6
+Fibroblasts	Fantom5	tpm.Fibroblast%20-%20Conjunctival%2c%20donor1.CNhs11339.11531-120A1	tpm.Fibroblast%20-%20Conjunctival%2c%20donor1.CNhs11339.11531-120A1
+Fibroblasts	Fantom5	tpm.Fibroblast%20-%20Conjunctival%2c%20donor3.CNhs12734.11692-122I9	tpm.Fibroblast%20-%20Conjunctival%2c%20donor3.CNhs12734.11692-122I9
+Fibroblasts	Fantom5	tpm.Fibroblast%20-%20Dermal%2c%20donor1.CNhs12499.11269-116G9	tpm.Fibroblast%20-%20Dermal%2c%20donor1.CNhs12499.11269-116G9
+Fibroblasts	Fantom5	tpm.Fibroblast%20-%20Dermal%2c%20donor2.CNhs11379.11346-117G5	tpm.Fibroblast%20-%20Dermal%2c%20donor2.CNhs11379.11346-117G5
+Fibroblasts	Fantom5	tpm.Fibroblast%20-%20Dermal%2c%20donor3.CNhs12028.11418-118F5	tpm.Fibroblast%20-%20Dermal%2c%20donor3.CNhs12028.11418-118F5
+Fibroblasts	Fantom5	tpm.Fibroblast%20-%20Dermal%2c%20donor4.CNhs12052.11450-119A1	tpm.Fibroblast%20-%20Dermal%2c%20donor4.CNhs12052.11450-119A1
+Fibroblasts	Fantom5	tpm.Fibroblast%20-%20Dermal%2c%20donor5.CNhs12055.11454-119A5	tpm.Fibroblast%20-%20Dermal%2c%20donor5.CNhs12055.11454-119A5
+Fibroblasts	Fantom5	tpm.Fibroblast%20-%20Dermal%2c%20donor6.CNhs12059.11458-119A9	tpm.Fibroblast%20-%20Dermal%2c%20donor6.CNhs12059.11458-119A9
+Fibroblasts	Fantom5	tpm.Fibroblast%20-%20Gingival%2c%20donor1.CNhs10866.11237-116D4	tpm.Fibroblast%20-%20Gingival%2c%20donor1.CNhs10866.11237-116D4
+Fibroblasts	Fantom5	tpm.Fibroblast%20-%20Gingival%2c%20donor10%20%28periodontitis%29.CNhs14135.11928-125I2	tpm.Fibroblast%20-%20Gingival%2c%20donor10%20%28periodontitis%29.CNhs14135.11928-125I2
+Fibroblasts	Fantom5	tpm.Fibroblast%20-%20Gingival%2c%20donor2.CNhs11961.11318-117D4	tpm.Fibroblast%20-%20Gingival%2c%20donor2.CNhs11961.11318-117D4
+Fibroblasts	Fantom5	tpm.Fibroblast%20-%20Gingival%2c%20donor3.CNhs12006.11394-118C8	tpm.Fibroblast%20-%20Gingival%2c%20donor3.CNhs12006.11394-118C8
+Fibroblasts	Fantom5	tpm.Fibroblast%20-%20Gingival%2c%20donor4%20%28GFH2%29.CNhs10848.11222-116B7	tpm.Fibroblast%20-%20Gingival%2c%20donor4%20%28GFH2%29.CNhs10848.11222-116B7
+Fibroblasts	Fantom5	tpm.Fibroblast%20-%20Gingival%2c%20donor5%20%28GFH3%29.CNhs11952.11303-117B7	tpm.Fibroblast%20-%20Gingival%2c%20donor5%20%28GFH3%29.CNhs11952.11303-117B7
+Fibroblasts	Fantom5	tpm.Fibroblast%20-%20Gingival%2c%20donor6%20%28aggressive%20periodontitis%29.CNhs14128.11921-125H4	tpm.Fibroblast%20-%20Gingival%2c%20donor6%20%28aggressive%20periodontitis%29.CNhs14128.11921-125H4
+Fibroblasts	Fantom5	tpm.Fibroblast%20-%20Gingival%2c%20donor6%20%28control%29.CNhs14129.11922-125H5	tpm.Fibroblast%20-%20Gingival%2c%20donor6%20%28control%29.CNhs14129.11922-125H5
+Fibroblasts	Fantom5	tpm.Fibroblast%20-%20Gingival%2c%20donor7%20%28aggressive%20periodontitis%29.CNhs14130.11923-125H6	tpm.Fibroblast%20-%20Gingival%2c%20donor7%20%28aggressive%20periodontitis%29.CNhs14130.11923-125H6
+Fibroblasts	Fantom5	tpm.Fibroblast%20-%20Gingival%2c%20donor7%20%28control%29.CNhs14131.11924-125H7	tpm.Fibroblast%20-%20Gingival%2c%20donor7%20%28control%29.CNhs14131.11924-125H7
+Fibroblasts	Fantom5	tpm.Fibroblast%20-%20Gingival%2c%20donor8%20%28chronic%20periodontitis%29.CNhs14132.11925-125H8	tpm.Fibroblast%20-%20Gingival%2c%20donor8%20%28chronic%20periodontitis%29.CNhs14132.11925-125H8
+Fibroblasts	Fantom5	tpm.Fibroblast%20-%20Gingival%2c%20donor8%20%28control%29.CNhs14133.11926-125H9	tpm.Fibroblast%20-%20Gingival%2c%20donor8%20%28control%29.CNhs14133.11926-125H9
+Fibroblasts	Fantom5	tpm.Fibroblast%20-%20Gingival%2c%20donor9%20%28control%29.CNhs14134.11927-125I1	tpm.Fibroblast%20-%20Gingival%2c%20donor9%20%28control%29.CNhs14134.11927-125I1
+Fibroblasts	Fantom5	tpm.Fibroblast%20-%20Lung%2c%20donor1.CNhs12500.11270-116H1	tpm.Fibroblast%20-%20Lung%2c%20donor1.CNhs12500.11270-116H1
+Fibroblasts	Fantom5	tpm.Fibroblast%20-%20Lung%2c%20donor2.CNhs11380.11347-117G6	tpm.Fibroblast%20-%20Lung%2c%20donor2.CNhs11380.11347-117G6
+Fibroblasts	Fantom5	tpm.Fibroblast%20-%20Lung%2c%20donor3.CNhs12029.11419-118F6	tpm.Fibroblast%20-%20Lung%2c%20donor3.CNhs12029.11419-118F6
+Fibroblasts	Fantom5	tpm.Fibroblast%20-%20Lymphatic%2c%20donor1.CNhs11322.11506-119G3	tpm.Fibroblast%20-%20Lymphatic%2c%20donor1.CNhs11322.11506-119G3
+Fibroblasts	Fantom5	tpm.Fibroblast%20-%20Lymphatic%2c%20donor2.CNhs12082.11586-120G2	tpm.Fibroblast%20-%20Lymphatic%2c%20donor2.CNhs12082.11586-120G2
+Fibroblasts	Fantom5	tpm.Fibroblast%20-%20Lymphatic%2c%20donor3.CNhs12118.11667-122G2	tpm.Fibroblast%20-%20Lymphatic%2c%20donor3.CNhs12118.11667-122G2
+Fibroblasts	Fantom5	tpm.Fibroblast%20-%20Mammary%2c%20donor1.CNhs11348.11540-120B1	tpm.Fibroblast%20-%20Mammary%2c%20donor1.CNhs11348.11540-120B1
+Fibroblasts	Fantom5	tpm.Fibroblast%20-%20Mammary%2c%20donor2.CNhs12103.11620-122A9	tpm.Fibroblast%20-%20Mammary%2c%20donor2.CNhs12103.11620-122A9
+Fibroblasts	Fantom5	tpm.Fibroblast%20-%20Mammary%2c%20donor3.CNhs12128.11701-123A9	tpm.Fibroblast%20-%20Mammary%2c%20donor3.CNhs12128.11701-123A9
+Fibroblasts	Fantom5	tpm.Fibroblast%20-%20Periodontal%20Ligament%2c%20donor1.CNhs10867.11238-116D5	tpm.Fibroblast%20-%20Periodontal%20Ligament%2c%20donor1.CNhs10867.11238-116D5
+Fibroblasts	Fantom5	tpm.Fibroblast%20-%20Periodontal%20Ligament%2c%20donor2.CNhs11962.11319-117D5	tpm.Fibroblast%20-%20Periodontal%20Ligament%2c%20donor2.CNhs11962.11319-117D5
+Fibroblasts	Fantom5	tpm.Fibroblast%20-%20Periodontal%20Ligament%2c%20donor3.CNhs11907.11395-118C9	tpm.Fibroblast%20-%20Periodontal%20Ligament%2c%20donor3.CNhs11907.11395-118C9
+Fibroblasts	Fantom5	tpm.Fibroblast%20-%20Periodontal%20Ligament%2c%20donor4%20%28PL29%29.CNhs12493.11223-116B8	tpm.Fibroblast%20-%20Periodontal%20Ligament%2c%20donor4%20%28PL29%29.CNhs12493.11223-116B8
+Fibroblasts	Fantom5	tpm.Fibroblast%20-%20Periodontal%20Ligament%2c%20donor5%20%28PL30%29.CNhs11953.11304-117B8	tpm.Fibroblast%20-%20Periodontal%20Ligament%2c%20donor5%20%28PL30%29.CNhs11953.11304-117B8
+Fibroblasts	Fantom5	tpm.Fibroblast%20-%20Periodontal%20Ligament%2c%20donor6%20%28PLH3%29.CNhs11996.11380-118B3	tpm.Fibroblast%20-%20Periodontal%20Ligament%2c%20donor6%20%28PLH3%29.CNhs11996.11380-118B3
+Fibroblasts	Fantom5	tpm.Fibroblast%20-%20Pulmonary%20Artery%2c%20donor1.CNhs10878.11250-116E8	tpm.Fibroblast%20-%20Pulmonary%20Artery%2c%20donor1.CNhs10878.11250-116E8
+Fibroblasts	Fantom5	tpm.Fibroblast%20-%20Villous%20Mesenchymal%2c%20donor1.CNhs11343.11535-120A5	tpm.Fibroblast%20-%20Villous%20Mesenchymal%2c%20donor1.CNhs11343.11535-120A5
+Fibroblasts	Fantom5	tpm.Fibroblast%20-%20Villous%20Mesenchymal%2c%20donor2.CNhs12099.11615-122A4	tpm.Fibroblast%20-%20Villous%20Mesenchymal%2c%20donor2.CNhs12099.11615-122A4
+Fibroblasts	Fantom5	tpm.Fibroblast%20-%20Villous%20Mesenchymal%2c%20donor3.CNhs12920.11696-123A4	tpm.Fibroblast%20-%20Villous%20Mesenchymal%2c%20donor3.CNhs12920.11696-123A4
+Fibroblasts	Fantom5	tpm.Fibroblast%20-%20skin%20dystrophia%20myotonica%2c%20donor1%20%28nuclear%20fraction%29.CNhs12405.14329-155E9	tpm.Fibroblast%20-%20skin%20dystrophia%20myotonica%2c%20donor1%20%28nuclear%20fraction%29.CNhs12405.14329-155E9
+Fibroblasts	Fantom5	tpm.Fibroblast%20-%20skin%20dystrophia%20myotonica%2c%20donor1.CNhs11353.11556-120C8	tpm.Fibroblast%20-%20skin%20dystrophia%20myotonica%2c%20donor1.CNhs11353.11556-120C8
+Fibroblasts	Fantom5	tpm.Fibroblast%20-%20skin%20dystrophia%20myotonica%2c%20donor2.CNhs11354.11557-120C9	tpm.Fibroblast%20-%20skin%20dystrophia%20myotonica%2c%20donor2.CNhs11354.11557-120C9
+Fibroblasts	Fantom5	tpm.Fibroblast%20-%20skin%20dystrophia%20myotonica%2c%20donor3%20%28nuclear%20fraction%29.CNhs12399.14308-155C6	tpm.Fibroblast%20-%20skin%20dystrophia%20myotonica%2c%20donor3%20%28nuclear%20fraction%29.CNhs12399.14308-155C6
+Fibroblasts	Fantom5	tpm.Fibroblast%20-%20skin%20dystrophia%20myotonica%2c%20donor3.CNhs11913.11560-120D3	tpm.Fibroblast%20-%20skin%20dystrophia%20myotonica%2c%20donor3.CNhs11913.11560-120D3
+Fibroblasts	Fantom5	tpm.Fibroblast%20-%20skin%20normal%2c%20donor1%20%28nuclear%20fraction%29.CNhs12403.14323-155E3	tpm.Fibroblast%20-%20skin%20normal%2c%20donor1%20%28nuclear%20fraction%29.CNhs12403.14323-155E3
+Fibroblasts	Fantom5	tpm.Fibroblast%20-%20skin%20normal%2c%20donor1.CNhs11351.11553-120C5	tpm.Fibroblast%20-%20skin%20normal%2c%20donor1.CNhs11351.11553-120C5
+Fibroblasts	Fantom5	tpm.Fibroblast%20-%20skin%20normal%2c%20donor2%20%28nuclear%20fraction%29.CNhs12582.14302-155B9	tpm.Fibroblast%20-%20skin%20normal%2c%20donor2%20%28nuclear%20fraction%29.CNhs12582.14302-155B9
+Fibroblasts	Fantom5	tpm.Fibroblast%20-%20skin%20normal%2c%20donor2.CNhs11914.11561-120D4	tpm.Fibroblast%20-%20skin%20normal%2c%20donor2.CNhs11914.11561-120D4
+Fibroblasts	Fantom5	tpm.Fibroblast%20-%20skin%20spinal%20muscular%20atrophy%2c%20donor1%20%28nuclear%20fraction%29.CNhs12404.14326-155E6	tpm.Fibroblast%20-%20skin%20spinal%20muscular%20atrophy%2c%20donor1%20%28nuclear%20fraction%29.CNhs12404.14326-155E6
+Fibroblasts	Fantom5	tpm.Fibroblast%20-%20skin%20spinal%20muscular%20atrophy%2c%20donor1.CNhs11074.11555-120C7	tpm.Fibroblast%20-%20skin%20spinal%20muscular%20atrophy%2c%20donor1.CNhs11074.11555-120C7
+Fibroblasts	Fantom5	tpm.Fibroblast%20-%20skin%20spinal%20muscular%20atrophy%2c%20donor2.CNhs11911.11558-120D1	tpm.Fibroblast%20-%20skin%20spinal%20muscular%20atrophy%2c%20donor2.CNhs11911.11558-120D1
+Fibroblasts	Fantom5	tpm.Fibroblast%20-%20skin%20spinal%20muscular%20atrophy%2c%20donor3%20%28nuclear%20fraction%29.CNhs12398.14305-155C3	tpm.Fibroblast%20-%20skin%20spinal%20muscular%20atrophy%2c%20donor3%20%28nuclear%20fraction%29.CNhs12398.14305-155C3
+Fibroblasts	Fantom5	tpm.Fibroblast%20-%20skin%20spinal%20muscular%20atrophy%2c%20donor3.CNhs11912.11559-120D2	tpm.Fibroblast%20-%20skin%20spinal%20muscular%20atrophy%2c%20donor3.CNhs11912.11559-120D2
+Fibroblasts	Fantom5	tpm.Fibroblast%20-%20skin%20walker%20warburg%2c%20donor1.CNhs11352.11554-120C6	tpm.Fibroblast%20-%20skin%20walker%20warburg%2c%20donor1.CNhs11352.11554-120C6
+Fibroblasts	Fantom5	tpm.Fibroblast%20-%20skin%2c%20normal%20donor1%20%28cytoplasmic%20fraction%29.CNhs14560.14322-155E2	tpm.Fibroblast%20-%20skin%2c%20normal%20donor1%20%28cytoplasmic%20fraction%29.CNhs14560.14322-155E2
+Fibroblasts	Fantom5	tpm.Fibroblast%20-%20skin%2c%20normal%20donor2%20%28cytoplasmic%20fraction%29.CNhs14561.14301-155B8	tpm.Fibroblast%20-%20skin%2c%20normal%20donor2%20%28cytoplasmic%20fraction%29.CNhs14561.14301-155B8
+GMP	Fantom5	tpm.granulocyte%20macrophage%20progenitor%2c%20donor1.CNhs12519.12131-128D7	tpm.granulocyte%20macrophage%20progenitor%2c%20donor1.CNhs12519.12131-128D7
+GMP	Fantom5	tpm.granulocyte%20macrophage%20progenitor%2c%20donor2.CNhs12524.12135-128E2	tpm.granulocyte%20macrophage%20progenitor%2c%20donor2.CNhs12524.12135-128E2
+GMP	Fantom5	tpm.granulocyte%20macrophage%20progenitor%2c%20donor3.CNhs12528.12139-128E6	tpm.granulocyte%20macrophage%20progenitor%2c%20donor3.CNhs12528.12139-128E6
+Hepatocytes	Fantom5	tpm.Hepatocyte%2c%20donor1.CNhs12340.11523-119I2	tpm.Hepatocyte%2c%20donor1.CNhs12340.11523-119I2
+Hepatocytes	Fantom5	tpm.Hepatocyte%2c%20donor2.CNhs12349.11603-120I1	tpm.Hepatocyte%2c%20donor2.CNhs12349.11603-120I1
+Hepatocytes	Fantom5	tpm.Hepatocyte%2c%20donor3.CNhs12626.11684-122I1	tpm.Hepatocyte%2c%20donor3.CNhs12626.11684-122I1
+iDC	Fantom5	tpm.Dendritic%20Cells%20-%20monocyte%20immature%20derived%2c%20donor1%2c%20tech_rep1.CNhs10855.11227-116C3	tpm.Dendritic%20Cells%20-%20monocyte%20immature%20derived%2c%20donor1%2c%20tech_rep1.CNhs10855.11227-116C3
+iDC	Fantom5	tpm.Dendritic%20Cells%20-%20monocyte%20immature%20derived%2c%20donor1%2c%20tech_rep2.CNhs11062.11227-116C3	tpm.Dendritic%20Cells%20-%20monocyte%20immature%20derived%2c%20donor1%2c%20tech_rep2.CNhs11062.11227-116C3
+iDC	Fantom5	tpm.Dendritic%20Cells%20-%20monocyte%20immature%20derived%2c%20donor2.CNhs12195.11308-117C3	tpm.Dendritic%20Cells%20-%20monocyte%20immature%20derived%2c%20donor2.CNhs12195.11308-117C3
+iDC	Fantom5	tpm.Dendritic%20Cells%20-%20monocyte%20immature%20derived%2c%20donor3.CNhs12000.11384-118B7	tpm.Dendritic%20Cells%20-%20monocyte%20immature%20derived%2c%20donor3.CNhs12000.11384-118B7
+Keratinocytes	Fantom5	tpm.Keratinocyte%20-%20epidermal%2c%20donor1.CNhs11064.11272-116H3	tpm.Keratinocyte%20-%20epidermal%2c%20donor1.CNhs11064.11272-116H3
+Keratinocytes	Fantom5	tpm.Keratinocyte%20-%20epidermal%2c%20donor2.CNhs11381.11349-117G8	tpm.Keratinocyte%20-%20epidermal%2c%20donor2.CNhs11381.11349-117G8
+Keratinocytes	Fantom5	tpm.Keratinocyte%20-%20epidermal%2c%20donor3.CNhs12031.11421-118F8	tpm.Keratinocyte%20-%20epidermal%2c%20donor3.CNhs12031.11421-118F8
+Keratinocytes	Fantom5	tpm.Keratinocyte%20-%20oral%2c%20donor1.CNhs10879.11251-116E9	tpm.Keratinocyte%20-%20oral%2c%20donor1.CNhs10879.11251-116E9
+ly Endothelial cells	Fantom5	tpm.Endothelial%20Cells%20-%20Lymphatic%2c%20donor1.CNhs10865.11236-116D3	tpm.Endothelial%20Cells%20-%20Lymphatic%2c%20donor1.CNhs10865.11236-116D3
+ly Endothelial cells	Fantom5	tpm.Endothelial%20Cells%20-%20Lymphatic%2c%20donor2.CNhs11901.11317-117D3	tpm.Endothelial%20Cells%20-%20Lymphatic%2c%20donor2.CNhs11901.11317-117D3
+ly Endothelial cells	Fantom5	tpm.Endothelial%20Cells%20-%20Lymphatic%2c%20donor3.CNhs11906.11393-118C7	tpm.Endothelial%20Cells%20-%20Lymphatic%2c%20donor3.CNhs11906.11393-118C7
+Macrophages	Fantom5	tpm.Macrophage%20-%20monocyte%20derived%2c%20donor1.CNhs10861.11232-116C8	tpm.Macrophage%20-%20monocyte%20derived%2c%20donor1.CNhs10861.11232-116C8
+Macrophages	Fantom5	tpm.Macrophage%20-%20monocyte%20derived%2c%20donor2.CNhs11899.11313-117C8	tpm.Macrophage%20-%20monocyte%20derived%2c%20donor2.CNhs11899.11313-117C8
+Macrophages	Fantom5	tpm.Macrophage%20-%20monocyte%20derived%2c%20donor3.CNhs12003.11389-118C3	tpm.Macrophage%20-%20monocyte%20derived%2c%20donor3.CNhs12003.11389-118C3
+Mast cells	Fantom5	tpm.Mast%20cell%20-%20stimulated%2c%20donor1.CNhs11073.11487-119E2	tpm.Mast%20cell%20-%20stimulated%2c%20donor1.CNhs11073.11487-119E2
+Mast cells	Fantom5	tpm.Mast%20cell%2c%20donor1.CNhs12566.11563-120D6	tpm.Mast%20cell%2c%20donor1.CNhs12566.11563-120D6
+Mast cells	Fantom5	tpm.Mast%20cell%2c%20donor2.CNhs12594.11565-120D8	tpm.Mast%20cell%2c%20donor2.CNhs12594.11565-120D8
+Mast cells	Fantom5	tpm.Mast%20cell%2c%20donor3.CNhs12593.11566-120D9	tpm.Mast%20cell%2c%20donor3.CNhs12593.11566-120D9
+Melanocytes	Fantom5	tpm.Melanocyte%20-%20dark%2c%20donor1.CNhs12591.11502-119F8	tpm.Melanocyte%20-%20dark%2c%20donor1.CNhs12591.11502-119F8
+Melanocytes	Fantom5	tpm.Melanocyte%20-%20dark%2c%20donor2.CNhs12346.11582-120F7	tpm.Melanocyte%20-%20dark%2c%20donor2.CNhs12346.11582-120F7
+Melanocytes	Fantom5	tpm.Melanocyte%20-%20dark%2c%20donor3.CNhs12570.11663-122F7	tpm.Melanocyte%20-%20dark%2c%20donor3.CNhs12570.11663-122F7
+Melanocytes	Fantom5	tpm.Melanocyte%20-%20light%2c%20donor1.CNhs11303.11274-116H5	tpm.Melanocyte%20-%20light%2c%20donor1.CNhs11303.11274-116H5
+Melanocytes	Fantom5	tpm.Melanocyte%20-%20light%2c%20donor2.CNhs11383.11351-117H1	tpm.Melanocyte%20-%20light%2c%20donor2.CNhs11383.11351-117H1
+Melanocytes	Fantom5	tpm.Melanocyte%20-%20light%2c%20donor3.CNhs12033.11423-118G1	tpm.Melanocyte%20-%20light%2c%20donor3.CNhs12033.11423-118G1
+Melanocytes	Fantom5	tpm.Melanocyte%2c%20donor1%20%28MC%2b1%29.CNhs12816.12641-134G4	tpm.Melanocyte%2c%20donor1%20%28MC%2b1%29.CNhs12816.12641-134G4
+Melanocytes	Fantom5	tpm.Melanocyte%2c%20donor2%20%28MC%2b2%29.CNhs13156.12739-135I3	tpm.Melanocyte%2c%20donor2%20%28MC%2b2%29.CNhs13156.12739-135I3
+Melanocytes	Fantom5	tpm.Melanocyte%2c%20donor3%20%28MC%2b3%29.CNhs13406.12837-137B2	tpm.Melanocyte%2c%20donor3%20%28MC%2b3%29.CNhs13406.12837-137B2
+Mesangial cells	Fantom5	tpm.Renal%20Mesangial%20Cells%2c%20donor1.CNhs11333.11518-119H6	tpm.Renal%20Mesangial%20Cells%2c%20donor1.CNhs11333.11518-119H6
+Mesangial cells	Fantom5	tpm.Renal%20Mesangial%20Cells%2c%20donor2.CNhs12089.11598-120H5	tpm.Renal%20Mesangial%20Cells%2c%20donor2.CNhs12089.11598-120H5
+Mesangial cells	Fantom5	tpm.Renal%20Mesangial%20Cells%2c%20donor3.CNhs12121.11679-122H5	tpm.Renal%20Mesangial%20Cells%2c%20donor3.CNhs12121.11679-122H5
+Monocytes	Fantom5	tpm.CD14%2b%20Monocytes%2c%20donor1.CNhs10852.11224-116B9	tpm.CD14%2b%20Monocytes%2c%20donor1.CNhs10852.11224-116B9
+Monocytes	Fantom5	tpm.CD14%2b%20Monocytes%2c%20donor2.CNhs11954.11305-117B9	tpm.CD14%2b%20Monocytes%2c%20donor2.CNhs11954.11305-117B9
+Monocytes	Fantom5	tpm.CD14%2b%20Monocytes%2c%20donor3.CNhs11997.11381-118B4	tpm.CD14%2b%20Monocytes%2c%20donor3.CNhs11997.11381-118B4
+Monocytes	Fantom5	tpm.CD14%2bCD16%2b%20Monocytes%2c%20donor1.CNhs13541.11789-124B7	tpm.CD14%2bCD16%2b%20Monocytes%2c%20donor1.CNhs13541.11789-124B7
+Monocytes	Fantom5	tpm.CD14%2bCD16%2b%20Monocytes%2c%20donor2.CNhs13208.11801-124D1	tpm.CD14%2bCD16%2b%20Monocytes%2c%20donor2.CNhs13208.11801-124D1
+Monocytes	Fantom5	tpm.CD14%2bCD16%2b%20Monocytes%2c%20donor3.CNhs13549.11912-125G4	tpm.CD14%2bCD16%2b%20Monocytes%2c%20donor3.CNhs13549.11912-125G4
+Monocytes	Fantom5	tpm.CD14%2bCD16-%20Monocytes%2c%20donor1.CNhs13224.11788-124B6	tpm.CD14%2bCD16-%20Monocytes%2c%20donor1.CNhs13224.11788-124B6
+Monocytes	Fantom5	tpm.CD14%2bCD16-%20Monocytes%2c%20donor2.CNhs13216.11799-124C8	tpm.CD14%2bCD16-%20Monocytes%2c%20donor2.CNhs13216.11799-124C8
+Monocytes	Fantom5	tpm.CD14%2bCD16-%20Monocytes%2c%20donor3.CNhs13540.11910-125G2	tpm.CD14%2bCD16-%20Monocytes%2c%20donor3.CNhs13540.11910-125G2
+Monocytes	Fantom5	tpm.CD14-CD16%2b%20Monocytes%2c%20donor1.CNhs13229.11790-124B8	tpm.CD14-CD16%2b%20Monocytes%2c%20donor1.CNhs13229.11790-124B8
+Monocytes	Fantom5	tpm.CD14-CD16%2b%20Monocytes%2c%20donor2.CNhs13207.11800-124C9	tpm.CD14-CD16%2b%20Monocytes%2c%20donor2.CNhs13207.11800-124C9
+Monocytes	Fantom5	tpm.CD14-CD16%2b%20Monocytes%2c%20donor3.CNhs13548.11911-125G3	tpm.CD14-CD16%2b%20Monocytes%2c%20donor3.CNhs13548.11911-125G3
+Myocytes	Fantom5	tpm.Cardiac%20Myocyte%2c%20donor1.CNhs12341.11525-119I4	tpm.Cardiac%20Myocyte%2c%20donor1.CNhs12341.11525-119I4
+Myocytes	Fantom5	tpm.Cardiac%20Myocyte%2c%20donor2.CNhs12350.11605-120I3	tpm.Cardiac%20Myocyte%2c%20donor2.CNhs12350.11605-120I3
+Myocytes	Fantom5	tpm.Cardiac%20Myocyte%2c%20donor3.CNhs12571.11686-122I3	tpm.Cardiac%20Myocyte%2c%20donor3.CNhs12571.11686-122I3
+Neurons	Fantom5	tpm.Neurons%2c%20donor1.CNhs12338.11494-119E9	tpm.Neurons%2c%20donor1.CNhs12338.11494-119E9
+Neurons	Fantom5	tpm.Neurons%2c%20donor2.CNhs12726.11574-120E8	tpm.Neurons%2c%20donor2.CNhs12726.11574-120E8
+Neurons	Fantom5	tpm.Neurons%2c%20donor3.CNhs13815.11655-122E8	tpm.Neurons%2c%20donor3.CNhs13815.11655-122E8
+Neutrophils	Fantom5	tpm.Neutrophils%2c%20donor1.CNhs10862.11233-116C9	tpm.Neutrophils%2c%20donor1.CNhs10862.11233-116C9
+Neutrophils	Fantom5	tpm.Neutrophils%2c%20donor2.CNhs11959.11314-117C9	tpm.Neutrophils%2c%20donor2.CNhs11959.11314-117C9
+Neutrophils	Fantom5	tpm.Neutrophils%2c%20donor3.CNhs11905.11390-118C4	tpm.Neutrophils%2c%20donor3.CNhs11905.11390-118C4
+NK cells	Fantom5	tpm.NK%20T%20cell%20leukemia%20cell%20line%3aKHYG-1.CNhs11867.10777-110G3	tpm.NK%20T%20cell%20leukemia%20cell%20line%3aKHYG-1.CNhs11867.10777-110G3
+Osteoblast	Fantom5	tpm.Osteoblast%2c%20donor1.CNhs11078.11277-116H8	tpm.Osteoblast%2c%20donor1.CNhs11078.11277-116H8
+Osteoblast	Fantom5	tpm.Osteoblast%2c%20donor2.CNhs11385.11354-117H4	tpm.Osteoblast%2c%20donor2.CNhs11385.11354-117H4
+Osteoblast	Fantom5	tpm.Osteoblast%2c%20donor3.CNhs12036.11426-118G4	tpm.Osteoblast%2c%20donor3.CNhs12036.11426-118G4
+pDC	Fantom5	tpm.Dendritic%20Cells%20-%20plasmacytoid%2c%20donor1.CNhs10857.11228-116C4	tpm.Dendritic%20Cells%20-%20plasmacytoid%2c%20donor1.CNhs10857.11228-116C4
+pDC	Fantom5	tpm.Dendritic%20Cells%20-%20plasmacytoid%2c%20donor2.CNhs12196.11309-117C4	tpm.Dendritic%20Cells%20-%20plasmacytoid%2c%20donor2.CNhs12196.11309-117C4
+pDC	Fantom5	tpm.Dendritic%20Cells%20-%20plasmacytoid%2c%20donor3.CNhs12200.11385-118B8	tpm.Dendritic%20Cells%20-%20plasmacytoid%2c%20donor3.CNhs12200.11385-118B8
+Pericytes	Fantom5	tpm.Pericytes%2c%20donor1.CNhs11317.11491-119E6	tpm.Pericytes%2c%20donor1.CNhs11317.11491-119E6
+Pericytes	Fantom5	tpm.Pericytes%2c%20donor2.CNhs12079.11571-120E5	tpm.Pericytes%2c%20donor2.CNhs12079.11571-120E5
+Pericytes	Fantom5	tpm.Pericytes%2c%20donor3.CNhs12116.11652-122E5	tpm.Pericytes%2c%20donor3.CNhs12116.11652-122E5
+Preadipocytes	Fantom5	tpm.Preadipocyte%20-%20breast%20donor2%20%28cytoplasmic%20fraction%29.CNhs14562.14319-155D8	tpm.Preadipocyte%20-%20breast%20donor2%20%28cytoplasmic%20fraction%29.CNhs14562.14319-155D8
+Preadipocytes	Fantom5	tpm.Preadipocyte%20-%20breast%2c%20donor1.CNhs11052.11467-119B9	tpm.Preadipocyte%20-%20breast%2c%20donor1.CNhs11052.11467-119B9
+Preadipocytes	Fantom5	tpm.Preadipocyte%20-%20breast%2c%20donor2%20%28nuclear%20fraction%29.CNhs12584.14320-155D9	tpm.Preadipocyte%20-%20breast%2c%20donor2%20%28nuclear%20fraction%29.CNhs12584.14320-155D9
+Preadipocytes	Fantom5	tpm.Preadipocyte%20-%20breast%2c%20donor2.CNhs11971.11328-117E5	tpm.Preadipocyte%20-%20breast%2c%20donor2.CNhs11971.11328-117E5
+Preadipocytes	Fantom5	tpm.Preadipocyte%20-%20omental%2c%20donor1.CNhs11065.11468-119C1	tpm.Preadipocyte%20-%20omental%2c%20donor1.CNhs11065.11468-119C1
+Preadipocytes	Fantom5	tpm.Preadipocyte%20-%20omental%2c%20donor2.CNhs11902.11329-117E6	tpm.Preadipocyte%20-%20omental%2c%20donor2.CNhs11902.11329-117E6
+Preadipocytes	Fantom5	tpm.Preadipocyte%20-%20omental%2c%20donor3.CNhs12013.11403-118D8	tpm.Preadipocyte%20-%20omental%2c%20donor3.CNhs12013.11403-118D8
+Preadipocytes	Fantom5	tpm.Preadipocyte%20-%20perirenal%2c%20donor1.CNhs12065.11469-119C2	tpm.Preadipocyte%20-%20perirenal%2c%20donor1.CNhs12065.11469-119C2
+Preadipocytes	Fantom5	tpm.Preadipocyte%20-%20subcutaneous%2c%20donor1.CNhs11081.11279-116I1	tpm.Preadipocyte%20-%20subcutaneous%2c%20donor1.CNhs11081.11279-116I1
+Preadipocytes	Fantom5	tpm.Preadipocyte%20-%20subcutaneous%2c%20donor2.CNhs11981.11356-117H6	tpm.Preadipocyte%20-%20subcutaneous%2c%20donor2.CNhs11981.11356-117H6
+Preadipocytes	Fantom5	tpm.Preadipocyte%20-%20subcutaneous%2c%20donor3.CNhs12038.11428-118G6	tpm.Preadipocyte%20-%20subcutaneous%2c%20donor3.CNhs12038.11428-118G6
+Preadipocytes	Fantom5	tpm.Preadipocyte%20-%20visceral%2c%20donor1.CNhs11082.11280-116I2	tpm.Preadipocyte%20-%20visceral%2c%20donor1.CNhs11082.11280-116I2
+Preadipocytes	Fantom5	tpm.Preadipocyte%20-%20visceral%2c%20donor2.CNhs11982.11357-117H7	tpm.Preadipocyte%20-%20visceral%2c%20donor2.CNhs11982.11357-117H7
+Preadipocytes	Fantom5	tpm.Preadipocyte%20-%20visceral%2c%20donor3.CNhs12039.11429-118G7	tpm.Preadipocyte%20-%20visceral%2c%20donor3.CNhs12039.11429-118G7
+Sebocytes	Fantom5	tpm.Sebocyte%2c%20donor1.CNhs10847.11220-116B5	tpm.Sebocyte%2c%20donor1.CNhs10847.11220-116B5
+Sebocytes	Fantom5	tpm.Sebocyte%2c%20donor2.CNhs11951.11301-117B5	tpm.Sebocyte%2c%20donor2.CNhs11951.11301-117B5
+Sebocytes	Fantom5	tpm.Sebocyte%2c%20donor3.CNhs11995.11378-118B1	tpm.Sebocyte%2c%20donor3.CNhs11995.11378-118B1
+Skeletal muscle	Fantom5	tpm.Skeletal%20Muscle%20Cells%2c%20donor1.CNhs11083.11281-116I3	tpm.Skeletal%20Muscle%20Cells%2c%20donor1.CNhs11083.11281-116I3
+Skeletal muscle	Fantom5	tpm.Skeletal%20Muscle%20Cells%2c%20donor2.CNhs11983.11358-117H8	tpm.Skeletal%20Muscle%20Cells%2c%20donor2.CNhs11983.11358-117H8
+Skeletal muscle	Fantom5	tpm.Skeletal%20Muscle%20Cells%2c%20donor3.CNhs12040.11430-118G8	tpm.Skeletal%20Muscle%20Cells%2c%20donor3.CNhs12040.11430-118G8
+Skeletal muscle	Fantom5	tpm.Skeletal%20Muscle%20Cells%2c%20donor4.CNhs12053.11451-119A2	tpm.Skeletal%20Muscle%20Cells%2c%20donor4.CNhs12053.11451-119A2
+Skeletal muscle	Fantom5	tpm.Skeletal%20Muscle%20Cells%2c%20donor5.CNhs12056.11455-119A6	tpm.Skeletal%20Muscle%20Cells%2c%20donor5.CNhs12056.11455-119A6
+Skeletal muscle	Fantom5	tpm.Skeletal%20Muscle%20Cells%2c%20donor6.CNhs12060.11459-119B1	tpm.Skeletal%20Muscle%20Cells%2c%20donor6.CNhs12060.11459-119B1
+Smooth muscle	Fantom5	tpm.Smooth%20Muscle%20Cells%20-%20Aortic%2c%20donor0%20%28cytoplasmic%20fraction%29.CNhs12401.14313-155D2	tpm.Smooth%20Muscle%20Cells%20-%20Aortic%2c%20donor0%20%28cytoplasmic%20fraction%29.CNhs12401.14313-155D2
+Smooth muscle	Fantom5	tpm.Smooth%20Muscle%20Cells%20-%20Aortic%2c%20donor0%20%28nuclear%20fraction%29.CNhs12402.14314-155D3	tpm.Smooth%20Muscle%20Cells%20-%20Aortic%2c%20donor0%20%28nuclear%20fraction%29.CNhs12402.14314-155D3
+Smooth muscle	Fantom5	tpm.Smooth%20Muscle%20Cells%20-%20Aortic%2c%20donor0.CNhs10838.11210-116A4	tpm.Smooth%20Muscle%20Cells%20-%20Aortic%2c%20donor0.CNhs10838.11210-116A4
+Smooth muscle	Fantom5	tpm.Smooth%20Muscle%20Cells%20-%20Aortic%2c%20donor1.CNhs11085.11283-116I5	tpm.Smooth%20Muscle%20Cells%20-%20Aortic%2c%20donor1.CNhs11085.11283-116I5
+Smooth muscle	Fantom5	tpm.Smooth%20Muscle%20Cells%20-%20Aortic%2c%20donor2.CNhs11305.11360-117I1	tpm.Smooth%20Muscle%20Cells%20-%20Aortic%2c%20donor2.CNhs11305.11360-117I1
+Smooth muscle	Fantom5	tpm.Smooth%20Muscle%20Cells%20-%20Aortic%2c%20donor3.CNhs11309.11432-118H1	tpm.Smooth%20Muscle%20Cells%20-%20Aortic%2c%20donor3.CNhs11309.11432-118H1
+Smooth muscle	Fantom5	tpm.Smooth%20Muscle%20Cells%20-%20Bladder%2c%20donor1.CNhs12893.11519-119H7	tpm.Smooth%20Muscle%20Cells%20-%20Bladder%2c%20donor1.CNhs12893.11519-119H7
+Smooth muscle	Fantom5	tpm.Smooth%20Muscle%20Cells%20-%20Brachiocephalic%2c%20donor1.CNhs11086.11284-116I6	tpm.Smooth%20Muscle%20Cells%20-%20Brachiocephalic%2c%20donor1.CNhs11086.11284-116I6
+Smooth muscle	Fantom5	tpm.Smooth%20Muscle%20Cells%20-%20Brachiocephalic%2c%20donor2.CNhs11985.11361-117I2	tpm.Smooth%20Muscle%20Cells%20-%20Brachiocephalic%2c%20donor2.CNhs11985.11361-117I2
+Smooth muscle	Fantom5	tpm.Smooth%20Muscle%20Cells%20-%20Brachiocephalic%2c%20donor3.CNhs12043.11433-118H2	tpm.Smooth%20Muscle%20Cells%20-%20Brachiocephalic%2c%20donor3.CNhs12043.11433-118H2
+Smooth muscle	Fantom5	tpm.Smooth%20Muscle%20Cells%20-%20Brain%20Vascular%2c%20donor1.CNhs10863.11234-116D1	tpm.Smooth%20Muscle%20Cells%20-%20Brain%20Vascular%2c%20donor1.CNhs10863.11234-116D1
+Smooth muscle	Fantom5	tpm.Smooth%20Muscle%20Cells%20-%20Brain%20Vascular%2c%20donor2.CNhs11900.11315-117D1	tpm.Smooth%20Muscle%20Cells%20-%20Brain%20Vascular%2c%20donor2.CNhs11900.11315-117D1
+Smooth muscle	Fantom5	tpm.Smooth%20Muscle%20Cells%20-%20Brain%20Vascular%2c%20donor3.CNhs12004.11391-118C5	tpm.Smooth%20Muscle%20Cells%20-%20Brain%20Vascular%2c%20donor3.CNhs12004.11391-118C5
+Smooth muscle	Fantom5	tpm.Smooth%20Muscle%20Cells%20-%20Bronchial%2c%20donor1.CNhs11328.11512-119G9	tpm.Smooth%20Muscle%20Cells%20-%20Bronchial%2c%20donor1.CNhs11328.11512-119G9
+Smooth muscle	Fantom5	tpm.Smooth%20Muscle%20Cells%20-%20Bronchial%2c%20donor2.CNhs12348.11592-120G8	tpm.Smooth%20Muscle%20Cells%20-%20Bronchial%2c%20donor2.CNhs12348.11592-120G8
+Smooth muscle	Fantom5	tpm.Smooth%20Muscle%20Cells%20-%20Carotid%2c%20donor1.CNhs11087.11285-116I7	tpm.Smooth%20Muscle%20Cells%20-%20Carotid%2c%20donor1.CNhs11087.11285-116I7
+Smooth muscle	Fantom5	tpm.Smooth%20Muscle%20Cells%20-%20Carotid%2c%20donor2.CNhs11986.11362-117I3	tpm.Smooth%20Muscle%20Cells%20-%20Carotid%2c%20donor2.CNhs11986.11362-117I3
+Smooth muscle	Fantom5	tpm.Smooth%20Muscle%20Cells%20-%20Carotid%2c%20donor3.CNhs12044.11434-118H3	tpm.Smooth%20Muscle%20Cells%20-%20Carotid%2c%20donor3.CNhs12044.11434-118H3
+Smooth muscle	Fantom5	tpm.Smooth%20Muscle%20Cells%20-%20Colonic%2c%20donor1.CNhs10868.11239-116D6	tpm.Smooth%20Muscle%20Cells%20-%20Colonic%2c%20donor1.CNhs10868.11239-116D6
+Smooth muscle	Fantom5	tpm.Smooth%20Muscle%20Cells%20-%20Colonic%2c%20donor2.CNhs11963.11320-117D6	tpm.Smooth%20Muscle%20Cells%20-%20Colonic%2c%20donor2.CNhs11963.11320-117D6
+Smooth muscle	Fantom5	tpm.Smooth%20Muscle%20Cells%20-%20Colonic%2c%20donor3.CNhs12007.11396-118D1	tpm.Smooth%20Muscle%20Cells%20-%20Colonic%2c%20donor3.CNhs12007.11396-118D1
+Smooth muscle	Fantom5	tpm.Smooth%20Muscle%20Cells%20-%20Coronary%20Artery%2c%20donor1.CNhs11088.11286-116I8	tpm.Smooth%20Muscle%20Cells%20-%20Coronary%20Artery%2c%20donor1.CNhs11088.11286-116I8
+Smooth muscle	Fantom5	tpm.Smooth%20Muscle%20Cells%20-%20Coronary%20Artery%2c%20donor2.CNhs11987.11363-117I4	tpm.Smooth%20Muscle%20Cells%20-%20Coronary%20Artery%2c%20donor2.CNhs11987.11363-117I4
+Smooth muscle	Fantom5	tpm.Smooth%20Muscle%20Cells%20-%20Coronary%20Artery%2c%20donor3.CNhs12045.11435-118H4	tpm.Smooth%20Muscle%20Cells%20-%20Coronary%20Artery%2c%20donor3.CNhs12045.11435-118H4
+Smooth muscle	Fantom5	tpm.Smooth%20Muscle%20Cells%20-%20Esophageal%2c%20donor1.CNhs11324.11508-119G5	tpm.Smooth%20Muscle%20Cells%20-%20Esophageal%2c%20donor1.CNhs11324.11508-119G5
+Smooth muscle	Fantom5	tpm.Smooth%20Muscle%20Cells%20-%20Esophageal%2c%20donor2.CNhs12727.11588-120G4	tpm.Smooth%20Muscle%20Cells%20-%20Esophageal%2c%20donor2.CNhs12727.11588-120G4
+Smooth muscle	Fantom5	tpm.Smooth%20Muscle%20Cells%20-%20Internal%20Thoracic%20Artery%2c%20donor1.CNhs11067.11287-116I9	tpm.Smooth%20Muscle%20Cells%20-%20Internal%20Thoracic%20Artery%2c%20donor1.CNhs11067.11287-116I9
+Smooth muscle	Fantom5	tpm.Smooth%20Muscle%20Cells%20-%20Internal%20Thoracic%20Artery%2c%20donor2.CNhs11988.11364-117I5	tpm.Smooth%20Muscle%20Cells%20-%20Internal%20Thoracic%20Artery%2c%20donor2.CNhs11988.11364-117I5
+Smooth muscle	Fantom5	tpm.Smooth%20Muscle%20Cells%20-%20Internal%20Thoracic%20Artery%2c%20donor3.CNhs12046.11436-118H5	tpm.Smooth%20Muscle%20Cells%20-%20Internal%20Thoracic%20Artery%2c%20donor3.CNhs12046.11436-118H5
+Smooth muscle	Fantom5	tpm.Smooth%20Muscle%20Cells%20-%20Intestinal%2c%20donor1.CNhs12595.11509-119G6	tpm.Smooth%20Muscle%20Cells%20-%20Intestinal%2c%20donor1.CNhs12595.11509-119G6
+Smooth muscle	Fantom5	tpm.Smooth%20Muscle%20Cells%20-%20Prostate%2c%20donor1.CNhs11920.11257-116F6	tpm.Smooth%20Muscle%20Cells%20-%20Prostate%2c%20donor1.CNhs11920.11257-116F6
+Smooth muscle	Fantom5	tpm.Smooth%20Muscle%20Cells%20-%20Prostate%2c%20donor2.CNhs11976.11335-117F3	tpm.Smooth%20Muscle%20Cells%20-%20Prostate%2c%20donor2.CNhs11976.11335-117F3
+Smooth muscle	Fantom5	tpm.Smooth%20Muscle%20Cells%20-%20Prostate%2c%20donor3.CNhs11910.11465-119B7	tpm.Smooth%20Muscle%20Cells%20-%20Prostate%2c%20donor3.CNhs11910.11465-119B7
+Smooth muscle	Fantom5	tpm.Smooth%20Muscle%20Cells%20-%20Pulmonary%20Artery%2c%20donor1.CNhs11089.11288-117A1	tpm.Smooth%20Muscle%20Cells%20-%20Pulmonary%20Artery%2c%20donor1.CNhs11089.11288-117A1
+Smooth muscle	Fantom5	tpm.Smooth%20Muscle%20Cells%20-%20Pulmonary%20Artery%2c%20donor2.CNhs11989.11365-117I6	tpm.Smooth%20Muscle%20Cells%20-%20Pulmonary%20Artery%2c%20donor2.CNhs11989.11365-117I6
+Smooth muscle	Fantom5	tpm.Smooth%20Muscle%20Cells%20-%20Pulmonary%20Artery%2c%20donor3.CNhs12047.11437-118H6	tpm.Smooth%20Muscle%20Cells%20-%20Pulmonary%20Artery%2c%20donor3.CNhs12047.11437-118H6
+Smooth muscle	Fantom5	tpm.Smooth%20Muscle%20Cells%20-%20Subclavian%20Artery%2c%20donor1.CNhs11090.11289-117A2	tpm.Smooth%20Muscle%20Cells%20-%20Subclavian%20Artery%2c%20donor1.CNhs11090.11289-117A2
+Smooth muscle	Fantom5	tpm.Smooth%20Muscle%20Cells%20-%20Subclavian%20Artery%2c%20donor2.CNhs11990.11366-117I7	tpm.Smooth%20Muscle%20Cells%20-%20Subclavian%20Artery%2c%20donor2.CNhs11990.11366-117I7
+Smooth muscle	Fantom5	tpm.Smooth%20Muscle%20Cells%20-%20Subclavian%20Artery%2c%20donor3.CNhs12048.11438-118H7	tpm.Smooth%20Muscle%20Cells%20-%20Subclavian%20Artery%2c%20donor3.CNhs12048.11438-118H7
+Smooth muscle	Fantom5	tpm.Smooth%20Muscle%20Cells%20-%20Tracheal%2c%20donor1.CNhs11329.11513-119H1	tpm.Smooth%20Muscle%20Cells%20-%20Tracheal%2c%20donor1.CNhs11329.11513-119H1
+Smooth muscle	Fantom5	tpm.Smooth%20Muscle%20Cells%20-%20Tracheal%2c%20donor2.CNhs12567.11593-120G9	tpm.Smooth%20Muscle%20Cells%20-%20Tracheal%2c%20donor2.CNhs12567.11593-120G9
+Smooth muscle	Fantom5	tpm.Smooth%20Muscle%20Cells%20-%20Tracheal%2c%20donor3.CNhs12894.11674-122G9	tpm.Smooth%20Muscle%20Cells%20-%20Tracheal%2c%20donor3.CNhs12894.11674-122G9
+Smooth muscle	Fantom5	tpm.Smooth%20Muscle%20Cells%20-%20Umbilical%20Artery%2c%20donor1.CNhs11091.11290-117A3	tpm.Smooth%20Muscle%20Cells%20-%20Umbilical%20Artery%2c%20donor1.CNhs11091.11290-117A3
+Smooth muscle	Fantom5	tpm.Smooth%20Muscle%20Cells%20-%20Umbilical%20Artery%2c%20donor2.CNhs11991.11367-117I8	tpm.Smooth%20Muscle%20Cells%20-%20Umbilical%20Artery%2c%20donor2.CNhs11991.11367-117I8
+Smooth muscle	Fantom5	tpm.Smooth%20Muscle%20Cells%20-%20Umbilical%20Artery%2c%20donor3.CNhs12049.11439-118H8	tpm.Smooth%20Muscle%20Cells%20-%20Umbilical%20Artery%2c%20donor3.CNhs12049.11439-118H8
+Smooth muscle	Fantom5	tpm.Smooth%20Muscle%20Cells%20-%20Umbilical%20Vein%2c%20donor1.CNhs12597.11541-120B2	tpm.Smooth%20Muscle%20Cells%20-%20Umbilical%20Vein%2c%20donor1.CNhs12597.11541-120B2
+Smooth muscle	Fantom5	tpm.Smooth%20Muscle%20Cells%20-%20Umbilical%20Vein%2c%20donor2.CNhs12569.11621-122B1	tpm.Smooth%20Muscle%20Cells%20-%20Umbilical%20Vein%2c%20donor2.CNhs12569.11621-122B1
+Smooth muscle	Fantom5	tpm.Smooth%20Muscle%20Cells%20-%20Umbilical%20Vein%2c%20donor3.CNhs13076.11702-123B1	tpm.Smooth%20Muscle%20Cells%20-%20Umbilical%20Vein%2c%20donor3.CNhs13076.11702-123B1
+Smooth muscle	Fantom5	tpm.Smooth%20Muscle%20Cells%20-%20Umbilical%20artery%2c%20donor0.CNhs10839.11212-116A6	tpm.Smooth%20Muscle%20Cells%20-%20Umbilical%20artery%2c%20donor0.CNhs10839.11212-116A6
+Smooth muscle	Fantom5	tpm.Smooth%20Muscle%20Cells%20-%20Uterine%2c%20donor1.CNhs11921.11258-116F7	tpm.Smooth%20Muscle%20Cells%20-%20Uterine%2c%20donor1.CNhs11921.11258-116F7
+Smooth muscle	Fantom5	tpm.Smooth%20Muscle%20Cells%20-%20Uterine%2c%20donor3.CNhs11927.11466-119B8	tpm.Smooth%20Muscle%20Cells%20-%20Uterine%2c%20donor3.CNhs11927.11466-119B8
+Smooth muscle	Fantom5	tpm.Smooth%20muscle%20cells%20-%20airway%2c%20asthmatic%2c%20donor1.CNhs14183.11960-126C7	tpm.Smooth%20muscle%20cells%20-%20airway%2c%20asthmatic%2c%20donor1.CNhs14183.11960-126C7
+Smooth muscle	Fantom5	tpm.Smooth%20muscle%20cells%20-%20airway%2c%20asthmatic%2c%20donor2.CNhs14184.11961-126C8	tpm.Smooth%20muscle%20cells%20-%20airway%2c%20asthmatic%2c%20donor2.CNhs14184.11961-126C8
+Smooth muscle	Fantom5	tpm.Smooth%20muscle%20cells%20-%20airway%2c%20asthmatic%2c%20donor3.CNhs14186.11962-126C9	tpm.Smooth%20muscle%20cells%20-%20airway%2c%20asthmatic%2c%20donor3.CNhs14186.11962-126C9
+Smooth muscle	Fantom5	tpm.Smooth%20muscle%20cells%20-%20airway%2c%20asthmatic%2c%20donor4.CNhs14187.11963-126D1	tpm.Smooth%20muscle%20cells%20-%20airway%2c%20asthmatic%2c%20donor4.CNhs14187.11963-126D1
+Smooth muscle	Fantom5	tpm.Smooth%20muscle%20cells%20-%20airway%2c%20asthmatic%2c%20donor5.CNhs14188.11964-126D2	tpm.Smooth%20muscle%20cells%20-%20airway%2c%20asthmatic%2c%20donor5.CNhs14188.11964-126D2
+Smooth muscle	Fantom5	tpm.Smooth%20muscle%20cells%20-%20airway%2c%20asthmatic%2c%20donor6.CNhs14189.11965-126D3	tpm.Smooth%20muscle%20cells%20-%20airway%2c%20asthmatic%2c%20donor6.CNhs14189.11965-126D3
+Smooth muscle	Fantom5	tpm.Smooth%20muscle%20cells%20-%20airway%2c%20control%2c%20donor1.CNhs14190.11966-126D4	tpm.Smooth%20muscle%20cells%20-%20airway%2c%20control%2c%20donor1.CNhs14190.11966-126D4
+Smooth muscle	Fantom5	tpm.Smooth%20muscle%20cells%20-%20airway%2c%20control%2c%20donor2.CNhs14191.11967-126D5	tpm.Smooth%20muscle%20cells%20-%20airway%2c%20control%2c%20donor2.CNhs14191.11967-126D5
+Smooth muscle	Fantom5	tpm.Smooth%20muscle%20cells%20-%20airway%2c%20control%2c%20donor3.CNhs14192.11968-126D6	tpm.Smooth%20muscle%20cells%20-%20airway%2c%20control%2c%20donor3.CNhs14192.11968-126D6
+Smooth muscle	Fantom5	tpm.Smooth%20muscle%20cells%20-%20airway%2c%20control%2c%20donor4.CNhs14193.11969-126D7	tpm.Smooth%20muscle%20cells%20-%20airway%2c%20control%2c%20donor4.CNhs14193.11969-126D7
+Tregs	Fantom5	tpm.CD4%2bCD25%2bCD45RA%2b%20naive%20regulatory%20T%20cells%20expanded%2c%20donor1.CNhs13203.11793-124C2	tpm.CD4%2bCD25%2bCD45RA%2b%20naive%20regulatory%20T%20cells%20expanded%2c%20donor1.CNhs13203.11793-124C2
+Tregs	Fantom5	tpm.CD4%2bCD25%2bCD45RA%2b%20naive%20regulatory%20T%20cells%20expanded%2c%20donor2.CNhs13918.11915-125G7	tpm.CD4%2bCD25%2bCD45RA%2b%20naive%20regulatory%20T%20cells%20expanded%2c%20donor2.CNhs13918.11915-125G7
+Tregs	Fantom5	tpm.CD4%2bCD25%2bCD45RA%2b%20naive%20regulatory%20T%20cells%20expanded%2c%20donor3.CNhs13919.11919-125H2	tpm.CD4%2bCD25%2bCD45RA%2b%20naive%20regulatory%20T%20cells%20expanded%2c%20donor3.CNhs13919.11919-125H2
+Tregs	Fantom5	tpm.CD4%2bCD25%2bCD45RA%2b%20naive%20regulatory%20T%20cells%2c%20donor1.CNhs13238.11780-124A7	tpm.CD4%2bCD25%2bCD45RA%2b%20naive%20regulatory%20T%20cells%2c%20donor1.CNhs13238.11780-124A7
+Tregs	Fantom5	tpm.CD4%2bCD25%2bCD45RA%2b%20naive%20regulatory%20T%20cells%2c%20donor2.CNhs13235.11796-124C5	tpm.CD4%2bCD25%2bCD45RA%2b%20naive%20regulatory%20T%20cells%2c%20donor2.CNhs13235.11796-124C5
+Tregs	Fantom5	tpm.CD4%2bCD25%2bCD45RA%2b%20naive%20regulatory%20T%20cells%2c%20donor3.CNhs13513.11907-125F8	tpm.CD4%2bCD25%2bCD45RA%2b%20naive%20regulatory%20T%20cells%2c%20donor3.CNhs13513.11907-125F8
+Tregs	Fantom5	tpm.CD4%2bCD25%2bCD45RA-%20memory%20regulatory%20T%20cells%20expanded%2c%20donor1.CNhs13204.11794-124C3	tpm.CD4%2bCD25%2bCD45RA-%20memory%20regulatory%20T%20cells%20expanded%2c%20donor1.CNhs13204.11794-124C3
+Tregs	Fantom5	tpm.CD4%2bCD25%2bCD45RA-%20memory%20regulatory%20T%20cells%20expanded%2c%20donor2.CNhs13811.11916-125G8	tpm.CD4%2bCD25%2bCD45RA-%20memory%20regulatory%20T%20cells%20expanded%2c%20donor2.CNhs13811.11916-125G8
+Tregs	Fantom5	tpm.CD4%2bCD25%2bCD45RA-%20memory%20regulatory%20T%20cells%20expanded%2c%20donor3.CNhs13812.11920-125H3	tpm.CD4%2bCD25%2bCD45RA-%20memory%20regulatory%20T%20cells%20expanded%2c%20donor3.CNhs13812.11920-125H3
+Tregs	Fantom5	tpm.CD4%2bCD25%2bCD45RA-%20memory%20regulatory%20T%20cells%2c%20donor1.CNhs13195.11782-124A9	tpm.CD4%2bCD25%2bCD45RA-%20memory%20regulatory%20T%20cells%2c%20donor1.CNhs13195.11782-124A9
+Tregs	Fantom5	tpm.CD4%2bCD25%2bCD45RA-%20memory%20regulatory%20T%20cells%2c%20donor2.CNhs13206.11797-124C6	tpm.CD4%2bCD25%2bCD45RA-%20memory%20regulatory%20T%20cells%2c%20donor2.CNhs13206.11797-124C6
+Tregs	Fantom5	tpm.CD4%2bCD25%2bCD45RA-%20memory%20regulatory%20T%20cells%2c%20donor3.CNhs13538.11908-125F9	tpm.CD4%2bCD25%2bCD45RA-%20memory%20regulatory%20T%20cells%2c%20donor3.CNhs13538.11908-125F9
+CD8+ Tcm	Blueprint	central memory CD8-positive, alpha-beta T cell	central memory CD8-positive, alpha-beta T cell
+CD8+ Tcm	Noverstern	CD8+ Central Memory, sample 1	CD8+ Central Memory, sample 1
+CD8+ Tcm	Noverstern	CD8+ Central Memory, sample 2	CD8+ Central Memory, sample 2
+CD8+ Tcm	Noverstern	CD8+ Central Memory, sample 3	CD8+ Central Memory, sample 3
+CD8+ Tcm	Noverstern	CD8+ Central Memory, sample 4	CD8+ Central Memory, sample 4
+CD8+ Tcm	Noverstern	CD8+ Central Memory, sample 5	CD8+ Central Memory, sample 5
+CD8+ Tcm	Noverstern	CD8+ Central Memory, sample 6	CD8+ Central Memory, sample 6
+CD8+ Tcm	Noverstern	CD8+ Central Memory, sample 7	CD8+ Central Memory, sample 7
+CD8+ Tcm	Mabbott	Hs.116:T_cells:CD8+_Central_memory_:r1	Hs.116:T_cells:CD8+_Central_memory_:r1
+CD8+ Tcm	Mabbott	Hs.116:T_cells:CD8+_Central_memory_:r2	Hs.116:T_cells:CD8+_Central_memory_:r2
+CD8+ Tcm	Mabbott	Hs.116:T_cells:CD8+_Central_memory_:r3	Hs.116:T_cells:CD8+_Central_memory_:r3
+CD8+ Tem	Blueprint	effector memory CD8-positive, alpha-beta T cell	effector memory CD8-positive, alpha-beta T cell
+CD8+ Tem	Noverstern	CD8+ Effector Memory, sample 1	CD8+ Effector Memory, sample 1
+CD8+ Tem	Noverstern	CD8+ Effector Memory, sample 2	CD8+ Effector Memory, sample 2
+CD8+ Tem	Noverstern	CD8+ Effector Memory, sample 3	CD8+ Effector Memory, sample 3
+CD8+ Tem	Noverstern	CD8+ Effector Memory, sample 4	CD8+ Effector Memory, sample 4
+CD8+ Tem	Noverstern	CD8+ Effector Memory, sample 5	CD8+ Effector Memory, sample 5
+CD8+ Tem	Noverstern	CD8+ Effector Memory, sample 6	CD8+ Effector Memory, sample 6
+CD8+ Tem	Mabbott	Hs.116:T_cell:CD8+_effector_memory:r1	Hs.116:T_cell:CD8+_effector_memory:r1
+CD8+ Tem	Mabbott	Hs.116:T_cell:CD8+_effector_memory:r2	Hs.116:T_cell:CD8+_effector_memory:r2
+CD8+ Tem	Mabbott	Hs.116:T_cell:CD8+_effector_memory:r3	Hs.116:T_cell:CD8+_effector_memory:r3
+CD8+ Tem	Mabbott	Hs.116:T_cell:CD8+_effector_memory:r4	Hs.116:T_cell:CD8+_effector_memory:r4
+MPP	Blueprint	hematopoietic multipotent progenitor cell	hematopoietic multipotent progenitor cell
+MPP	Fantom5	tpm.Multipotent%20Cord%20Blood%20Unrestricted%20Somatic%20Stem%20Cells%2c%20donor1.CNhs11350.11549-120C1	tpm.Multipotent%20Cord%20Blood%20Unrestricted%20Somatic%20Stem%20Cells%2c%20donor1.CNhs11350.11549-120C1
+MPP	Fantom5	ttpm.Multipotent%20Cord%20Blood%20Unrestricted%20Somatic%20Stem%20Cells%2c%20donor2.CNhs12105.11629-122B9	ttpm.Multipotent%20Cord%20Blood%20Unrestricted%20Somatic%20Stem%20Cells%2c%20donor2.CNhs12105.11629-122B9
+MSC	Encode	mesenchymal stem cell of Wharton's jelly	mesenchymal stem cell of Wharton's jelly
+MSC	Encode	mesenchymal stem cell of the bone marrow	mesenchymal stem cell of the bone marrow
+MSC	Encode	mesenchymal stem cell of adipose	mesenchymal stem cell of adipose
+MSC	Fantom5	tpm.Mesenchymal%20Stem%20Cells%20-%20Vertebral%2c%20donor1.CNhs10846.11219-116B4	tpm.Mesenchymal%20Stem%20Cells%20-%20Vertebral%2c%20donor1.CNhs10846.11219-116B4
+MSC	Fantom5	tpm.Mesenchymal%20Stem%20Cells%20-%20Wharton%27s%20Jelly%2c%20donor1.CNhs11057.11548-120B9	tpm.Mesenchymal%20Stem%20Cells%20-%20Wharton%27s%20Jelly%2c%20donor1.CNhs11057.11548-120B9
+MSC	Fantom5	tpm.Mesenchymal%20Stem%20Cells%20-%20adipose%2c%20donor1.CNhs11345.11537-120A7	tpm.Mesenchymal%20Stem%20Cells%20-%20adipose%2c%20donor1.CNhs11345.11537-120A7
+MSC	Fantom5	tpm.Mesenchymal%20Stem%20Cells%20-%20adipose%2c%20donor2.CNhs12101.11617-122A6	tpm.Mesenchymal%20Stem%20Cells%20-%20adipose%2c%20donor2.CNhs12101.11617-122A6
+MSC	Fantom5	tpm.Mesenchymal%20Stem%20Cells%20-%20adipose%2c%20donor3.CNhs12922.11698-123A6	tpm.Mesenchymal%20Stem%20Cells%20-%20adipose%2c%20donor3.CNhs12922.11698-123A6
+MSC	Fantom5	tpm.Mesenchymal%20Stem%20Cells%20-%20amniotic%20membrane%2c%20donor1.CNhs11349.11547-120B8	tpm.Mesenchymal%20Stem%20Cells%20-%20amniotic%20membrane%2c%20donor1.CNhs11349.11547-120B8
+MSC	Fantom5	tpm.Mesenchymal%20Stem%20Cells%20-%20amniotic%20membrane%2c%20donor2.CNhs12104.11627-122B7	tpm.Mesenchymal%20Stem%20Cells%20-%20amniotic%20membrane%2c%20donor2.CNhs12104.11627-122B7
+MSC	Fantom5	tpm.Mesenchymal%20Stem%20Cells%20-%20bone%20marrow%2c%20donor1.CNhs11344.11536-120A6	tpm.Mesenchymal%20Stem%20Cells%20-%20bone%20marrow%2c%20donor1.CNhs11344.11536-120A6
+MSC	Fantom5	tpm.Mesenchymal%20Stem%20Cells%20-%20bone%20marrow%2c%20donor2.CNhs12100.11616-122A5	tpm.Mesenchymal%20Stem%20Cells%20-%20bone%20marrow%2c%20donor2.CNhs12100.11616-122A5
+MSC	Fantom5	tpm.Mesenchymal%20Stem%20Cells%20-%20bone%20marrow%2c%20donor3.CNhs12126.11697-123A5	tpm.Mesenchymal%20Stem%20Cells%20-%20bone%20marrow%2c%20donor3.CNhs12126.11697-123A5
+MSC	Fantom5	tpm.Mesenchymal%20Stem%20Cells%20-%20bone%20marrow%2c%20donor4.CNhs11316.11464-119B6	tpm.Mesenchymal%20Stem%20Cells%20-%20bone%20marrow%2c%20donor4.CNhs11316.11464-119B6
+MSC	Fantom5	tpm.Mesenchymal%20Stem%20Cells%20-%20hepatic%2c%20donor1.CNhs11346.11538-120A8	tpm.Mesenchymal%20Stem%20Cells%20-%20hepatic%2c%20donor1.CNhs11346.11538-120A8
+MSC	Fantom5	tpm.Mesenchymal%20Stem%20Cells%20-%20hepatic%2c%20donor2.CNhs12730.11618-122A7	tpm.Mesenchymal%20Stem%20Cells%20-%20hepatic%2c%20donor2.CNhs12730.11618-122A7
+MSC	Fantom5	tpm.Mesenchymal%20Stem%20Cells%20-%20umbilical%2c%20donor1.CNhs11347.11539-120A9	tpm.Mesenchymal%20Stem%20Cells%20-%20umbilical%2c%20donor1.CNhs11347.11539-120A9
+MSC	Fantom5	tpm.Mesenchymal%20Stem%20Cells%20-%20umbilical%2c%20donor2.CNhs12102.11619-122A8	tpm.Mesenchymal%20Stem%20Cells%20-%20umbilical%2c%20donor2.CNhs12102.11619-122A8
+MSC	Fantom5	tpm.Mesenchymal%20Stem%20Cells%20-%20umbilical%2c%20donor3.CNhs12127.11700-123A8	tpm.Mesenchymal%20Stem%20Cells%20-%20umbilical%2c%20donor3.CNhs12127.11700-123A8
+MSC	Fantom5	tpm.Mesenchymal%20stem%20cells%20-%20adipose%2c%20donor0.CNhs10844.11217-116B2	tpm.Mesenchymal%20stem%20cells%20-%20adipose%2c%20donor0.CNhs10844.11217-116B2
+MSC	Fantom5	tpm.Mesenchymal%20stem%20cells%20-%20hepatic%2c%20donor0.CNhs10845.11218-116B3	tpm.Mesenchymal%20stem%20cells%20-%20hepatic%2c%20donor0.CNhs10845.11218-116B3
+MSC	Fantom5	tpm.Mesenchymal%20stem%20cells%20-%20umbilical%2c%20donor0.CNhs12492.11214-116A8	tpm.Mesenchymal%20stem%20cells%20-%20umbilical%2c%20donor0.CNhs12492.11214-116A8
