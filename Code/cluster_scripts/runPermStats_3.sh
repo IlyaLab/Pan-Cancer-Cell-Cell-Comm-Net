@@ -1,4 +1,0 @@
-python3 scripts/permtest_v3_sample3.py sampleCounts/cn_n_study_pfi.csv nullStats/cn_study_pfi_s1_sample3.csv
-python3 scripts/permtest_v3_sample3.py sampleCounts/cn_n_study_stage.csv nullStats/cn_study_stage_s1_sample3.csv
-python3 scripts/permtest_v3_sample3.py sampleCounts/cn_n_subtype_pfi.csv nullStats/cn_subtype_pfi_s1_sample3.csv
-python3 scripts/permtest_v3_sample3.py sampleCounts/cn_n_subtype_stage.csv nullStats/cn_subtype_stage_s1_sample3.csv

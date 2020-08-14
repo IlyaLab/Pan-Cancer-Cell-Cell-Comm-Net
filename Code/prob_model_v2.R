@@ -19,6 +19,7 @@ ccs$cellR <- as.character(ccs$cellR)
 ccs$ligand <- as.character(ccs$ligand)
 ccs$receptor <- as.character(ccs$receptor)
 
+# fix a couple names
 xcell$X1[xcell$X1 == "B-cells"] <- 'b-cell'
 xcell$X1[xcell$X1 == "Astrocytes"] <- 'astrocytes'
 
