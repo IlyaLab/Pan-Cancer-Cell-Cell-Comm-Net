@@ -8,11 +8,11 @@ Data/accessories_v2.rda  -- an R data file with the following objects:
   - ccs -- the cell-cell scaffold (ccs)
   - cellECDFS -- the cell score abundance distributions
 
-Data/cell_type_expr/cell_type_expression_tables.rda
+Data/CellSortedExpressonSets/cell_type_expression_tables.rda
   - The cell sorted gene expression source data that was used to create the cell-cell scaffold.
     includes: blueprintComm, blueprintRare, ramiloski, a96, a97, mab, nov, encode
   
-Data/cell_type_expr/new_Celltype_map_march8.tsv
+Data/CellSortedExpressonSets/new_Celltype_map_march8.tsv
   - The map of cell names in source data to xCell data.
 
 ## Key tasks
@@ -46,6 +46,18 @@ Data/cell_type_expr/new_Celltype_map_march8.tsv
        
 3. How was the cell-cell scaffold made?
    - using Code/scaffold.R
+   - try it out with Example/build_scaffold_example.sh
+   
+4. How was the scaffold weighted for each sample?
+    - using Code/compute_weights_v2.R
+    - which needs, one R data file per sample with both expression and cell estimates, plus distributions & accessories (as above).
+    - try a small working exmaple with Example/weight_network_example.sh
+    
+5. How do I get all the data?
+    - The complete set of data and distributions is stored in a google bucket 
+    - See Example/download_from_cloud_bucket.sh
+    - Also, much of the data and results are stored in Google BigQuery tables.
+    - See Analysis/SQL for examples of how to query the weighted tables and various summaries.
 
 
 
@@ -55,18 +67,13 @@ Data/cell_type_expr/new_Celltype_map_march8.tsv
 
 2. Code - the code to build the cell-cell scaffold, weight the networks, and perform permuation testing.
 
-3. Data - objects needed for computing the edge weights.
+3. Data - objects needed for computing the scaffold and edge weights.
 
-4. Expr - columns cut from the TCGA Pan-Cancer batch corrected RNA-seq data.
+4. Distributions - gene epxression and cell abundance probability distribution examples.
 
-5. Perm - example of the permutation outputs.
+5. Example - examples showing how the code.
 
-6. Prob - cell abundance probability distribution examples.
+7. Results - edge weights, permuted weights, and the Differentially Weighted Edges (DWEs)
 
-7. Results - example result files showing edge weights.
-
-8. SQL - BigQuery SQLs used to compute statistics.
-
-9. testEnv - a complete test example to run through.
 
 
