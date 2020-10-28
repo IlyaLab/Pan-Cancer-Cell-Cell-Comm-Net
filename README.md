@@ -59,6 +59,8 @@ Data/CellSortedExpressonSets/new_Celltype_map_march8.tsv
     - Also, much of the data and results are stored in Google BigQuery tables.
     - See Analysis/SQL for examples of how to query the weighted tables and various summaries.
 
+6. How do I make plots?
+    - See the notebook in Analysis: plots.ipynb.
 
 
 ## Table of contents:
@@ -74,6 +76,5 @@ Data/CellSortedExpressonSets/new_Celltype_map_march8.tsv
 5. Example - examples showing how the code.
 
 7. Results - edge weights, permuted weights, and the Differentially Weighted Edges (DWEs)
-
 
 
