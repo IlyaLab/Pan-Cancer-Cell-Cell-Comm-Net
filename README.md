@@ -54,7 +54,7 @@ Data/CellSortedExpressonSets/new_Celltype_map_march8.tsv
     - try a small working exmaple with Example/weight_network_example.sh
     
 5. How do I get all the data?
-    - The complete set of data and distributions is stored in a google bucket 
+    - The complete set of data and distributions is stored in a google bucket, you'll need a google cloud account.
     - See Example/download_from_cloud_bucket.sh
     - Also, much of the data and results are stored in Google BigQuery tables.
     - See Analysis/SQL for examples of how to query the weighted tables and various summaries.
@@ -65,7 +65,7 @@ Data/CellSortedExpressonSets/new_Celltype_map_march8.tsv
 
 ## Table of contents:
 
-1. Analysis - Data and notebooks used in the analysis of networks.
+1. Analysis - data and notebooks used in the analysis of networks.
 
 2. Code - the code to build the cell-cell scaffold, weight the networks, and perform permuation testing.
 
@@ -73,8 +73,8 @@ Data/CellSortedExpressonSets/new_Celltype_map_march8.tsv
 
 4. Distributions - gene epxression and cell abundance probability distribution examples.
 
-5. Example - examples showing how the code.
+5. Example - small examples showing how the network is built and weighted.
 
-7. Results - edge weights, permuted weights, and the Differentially Weighted Edges (DWEs)
+7. Results - edge weights, permuted weights, and the Differentially Weighted Edges (DWEs).
 
 
