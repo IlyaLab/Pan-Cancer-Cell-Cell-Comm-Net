@@ -1,5 +1,10 @@
+#
 # saved query: S1 stat table
 # note: uses the v2 tables.
+# in the edge weight summary table, the MAD is defined as:
+#    APPROX_QUANTILES(ABS(EdgeWt - median),1000)[OFFSET(500)] mad
+# making it necessary to multiply in the 1.4826 constant.
+#
 SELECT
   a.Study,
   a.EdgeID,
